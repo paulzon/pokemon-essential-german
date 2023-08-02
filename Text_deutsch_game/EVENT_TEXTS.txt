@@ -1,0 +1,2906 @@
+# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map000]
+\bHello, \PN!\nI can see you calling me over there!
+\bHallo, \PN!\nIch sehe, dass du mich da drüben anrufst!
+\bCome over and talk to me.
+\bKomm vorbei und rede mit mir.
+\bHello, this is Professor Oak...\nOh, hello, \PN!
+\bHallo, hier ist Professor Oak...\nOh, hallo, \PN!
+\bSo, how's your Pokédex coming along?
+\bAlso, wie läuft es mit deinem Pokédex?
+\bHmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
+\bHmm, mal sehen..\nDu hast \v[1] Pokémon gesehen und \ndu hast \v[2] Pokémon gefangen!\nIch verstehe!
+\bHmm, you still have a long journey ahead of you! \nKeep on going!
+\bHmm, du hast noch eine lange Reise vor dir! \nMach weiter!
+\bHmm, you're catching Pokémon at a decent pace!
+\bHmm, du fängst Pokémon in einem anständigen Tempo!
+\bYou've caught a lot of Pokémon, but make sure you're raising them carefully!
+\bDu hast viele Pokémon gefangen, aber achte darauf, dass du sie sorgfältig aufziehst!
+\bI didn't even know that many Pokémon existed!
+\bIch wusste nicht einmal, dass es viele Pokémon gibt!
+\bShow me your Pokédex again anytime!
+\bZeig mir deinen Pokédex jederzeit wieder!
+\bShow me your Pokédex anytime!
+\bZeig mir jederzeit deinen Pokédex!
+\rDo you want me to stop following you?
+\rSoll ich aufhören, dir zu folgen?
+\rI'll just vanish, then.
+\rDann werde ich einfach verschwinden.
+\rLet's keep going!
+\rLass uns weitermachen!
+Evaluate Pokédex
+Bewerten Sie Pokédex
+Quit
+Aufhören
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map001]
+<ac>\c[8]\l[3](Please refer to the\nPokémon Essentials Wiki\nfor documentation.)
+<ac>\c[8]\l[3](Dokumentation finden Sie im\nPokémon Essentials Wiki\n.)
+\bHello! Sorry to keep you waiting!
+\bHallo! Tut mir Leid, dich warten zu lassen!
+\bWelcome to the world of Pokémon.
+\bWillkommen in der Welt der Pokémon.
+\bMy name is Oak.
+\bMein Name ist Oak.
+\bPeople call me the Pokémon Professor.
+\bDie Leute nennen mich den Pokémon-Professor.
+\bIf you need help, I am certainly capable of giving it.
+\bWenn Sie Hilfe benötigen, kann ich Ihnen diese auf jeden Fall geben.
+\bWell then, without further ado...
+\bNa dann, ohne weitere Umschweife...
+<ac>\c[0]\l[3]You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.
+<ac>\c[0]\l[3]Sie sind dabei, eine Welt zu betreten,\nin der Sie sich auf ein ganz eigenes, großes\nAbenteuer begeben werden.
+<ac>\c[0]\l[5]Speak to people and check things\n wherever you go, be it in towns,\nroads or caves.\n Gather information and hints from\n every possible source.
+<ac>\c[0]\l[5]Sprich mit Menschen und überprüfe Dinge,\n wo auch immer du hingehst, sei es in Städten,\nauf Straßen oder in Höhlen.\n Sammle Informationen und Hinweise aus\n jeder möglichen Quelle.
+<ac>\c[0]\l[3]New paths will open to you when\n you help people in need, overcome\n challenges, and solve mysteries.
+<ac>\c[0]\l[3]Neue Wege eröffnen sich Ihnen, wenn Sie Menschen in Not helfen, Herausforderungen meistern und Rätsel lösen.
+<ac>\c[0]\l[7]At times, you will be challenged\n by others to a battle.\n At other times, wild creatures\nmay stand in your way.\n\n By overcoming such hurdles,\nyou will gain great power.
+<ac>\c[0]\l[7]Manchmal wirst du\n von anderen zu einem Kampf herausgefordert.\n Manchmal stehen dir wilde Kreaturen\nim Weg.\n\n Durch die Überwindung solcher Hürden\nwird du große Macht erlangen.
+<ac>\c[0]\l[2]However, your adventure is not\n solely about becoming powerful.
+<ac>\c[0]\l[2]Bei Ihrem Abenteuer geht es jedoch nicht nur darum, mächtig zu werden.
+<ac>\c[0]\l[7]On your travels, we hope that\n you will meet countless people\n and, through them, achieve\npersonal growth.\n\n This is the most important\nobjective of this adventure.
+<ac>\c[0]\l[7]Wir hoffen, dass\n Sie auf Ihren Reisen unzählige Menschen treffen\n und durch sie persönliches Wachstum erreichen.\n\n Dies ist das wichtigste\nZiel dieses Abenteuers.
+\bThis world is inhabited by creatures we call Pokémon.
+\bDiese Welt wird von Kreaturen bewohnt, die wir Pokémon nennen.
+\bPeople and Pokémon live together by supporting each other.
+\bMenschen und Pokémon leben zusammen, indem sie sich gegenseitig unterstützen.
+\bSome people play with Pokémon, some battle with them.
+\bManche Leute spielen mit Pokémon, andere kämpfen mit ihnen.
+\bBut we don't know everything about Pokémon yet.
+\bAber wir wissen noch nicht alles über Pokémon.
+\bThere are still many mysteries to solve.
+\bEs gibt noch viele Rätsel zu lösen.
+\bThat's why I study Pokémon every day.
+\bDeshalb lerne ich jeden Tag Pokémon.
+\bAre you a boy or a girl?
+\bBist du ein Junge oder ein Mädchen?
+\bNow what did you say your name was?
+\bWas hast du gesagt, wie war dein Name?
+\bSo you're \PN?
+\bDu bist also \PN?
+\bWhat is your name?
+\bWie heißt du?
+\b\PN, are you ready?
+\b\PN, bist du bereit?
+\bYour very own Pokémon story is about to unfold.
+\bDeine ganz eigene Pokémon-Geschichte beginnt sich zu entfalten.
+\bYou'll face fun times and tough challenges.
+\bEs erwarten Sie lustige Zeiten und schwierige Herausforderungen.
+\bA world of dreams and adventures with Pokémon awaits! Let's go!
+\bEine Welt voller Träume und Abenteuer mit Pokémon erwartet Sie! Lass uns gehen!
+\bEnjoy the Starter Kit. You should give credit when using it.
+\bViel Spaß mit dem Starter-Kit. Sie sollten bei der Verwendung eine Quellenangabe machen.
+Controls
+Kontrollen
+Adventure
+Abenteuer
+No info needed
+Keine Informationen erforderlich
+Boy
+Junge
+Girl
+Mädchen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map002]
+\bThese doors are examples of good, solid door events.
+\bDiese Türen sind Beispiele für gute, solide Türveranstaltungen.
+\bWhen the player goes outside, be sure to transfer the player onto the door rather than next to it.  It looks better that way.
+\bWenn der Spieler nach draußen geht, stellen Sie sicher, dass er auf die Tür und nicht daneben gestellt wird. So sieht es besser aus.
+#-------------------------------
+[Map003]
+Choose a destination.
+Wählen Sie eine Destination.
+Choose a topic.
+Wähle ein Thema.
+The $player global variable contains information about the player, such as their trainer type, ID number, name, party Pokémon and money.
+Die globale Variable $player enthält Informationen über den Spieler, wie z. B. Trainertyp, ID-Nummer, Name, Party-Pokémon und Geld.
+This information is in class Player.
+Diese Informationen befinden sich in der Klasse Player.
+Map connections are how two maps are displayed next to each other in the overworld, allowing you to walk from one to the other.
+Durch Kartenverbindungen werden zwei Karten in der Oberwelt nebeneinander angezeigt, sodass Sie von einer zur anderen gehen können.
+The connections are defined in the PBS file "map_connections.txt". There is a Debug feature that makes connecting maps easier.
+Die Verbindungen werden in der PBS-Datei „map_connections.txt“ definiert. Es gibt eine Debug-Funktion, die das Verbinden von Karten erleichtert.
+In the Debug menu, go to "PBS File Editors..." > "Edit map_connections.txt". Instructions are available within. You can move maps around with the mouse.
+Gehen Sie im Debug-Menü zu „PBS File Editors...“ > „Edit map_connections.txt“. Anweisungen finden Sie hier. Sie können Karten mit der Maus verschieben.
+Every tile in a tileset has a terrain tag, which is a number. This number is used to give certain tiles special effects.
+Jede Kachel in einem Kachelset hat ein Gelände-Tag, bei dem es sich um eine Zahl handelt. Diese Zahl wird verwendet, um bestimmten Kacheln besondere Effekte zu verleihen.
+For example, ledge tiles have terrain tag 1, which means the player jumps over them. Ledge tiles also have a single passable direction (set separately).
+Felsvorsprungplättchen haben beispielsweise die Geländemarkierung 1, was bedeutet, dass der Spieler darüber springt. Ledge-Kacheln verfügen auch über eine einzige begehbare Richtung (separat festgelegt).
+Grass tiles (in which you can have wild encounters) have terrain tag 2. Water tiles have terrain tag 6 or 7.
+Grasplättchen (auf denen wilde Begegnungen möglich sind) haben die Geländemarkierung 2. Wasserplättchen haben die Geländemarkierung 6 oder 7.
+Terrain tag 0 means the tile has no special effect.  See the wiki for more information and a complete list of all terrain tags and their effects.
+Geländetag 0 bedeutet, dass die Kachel keinen besonderen Effekt hat. Weitere Informationen und eine vollständige Liste aller Gelände-Tags und ihrer Auswirkungen finden Sie im Wiki.
+You can only set terrain tags up to 7 via RPG Maker XP's Database. Essentials has terrain tags with higher numbers.
+Sie können über die Datenbank von RPG Maker XP nur Gelände-Tags bis zu 7 festlegen. Essentials verfügt über Gelände-Tags mit höheren Nummern.
+To fully set a tileset's terrain tags, open the Debug menu and go to "Other Editors..." > "Edit Terrain Tags".
+Um die Terrain-Tags eines Kachelsets vollständig festzulegen, öffnen Sie das Debug-Menü und gehen Sie zu „Andere Editoren …“ > „Terrain-Tags bearbeiten“.
+\rI will offer you more than 4 choices at once. You can put multiple "Show Choices" commands in a row to do this.
+\rIch biete Ihnen mehr als 4 Auswahlmöglichkeiten gleichzeitig an. Dazu können Sie mehrere „Auswahl anzeigen“-Befehle hintereinander platzieren.
+\rPlease choose one.
+\rBitte wählen Sie eines aus.
+Choice 1 was chosen.
+Wahl 1 wurde gewählt.
+Choice 2 was chosen.
+Wahl 2 wurde gewählt.
+Choice 3 was chosen.
+Wahl 3 wurde gewählt.
+Choice 4 was chosen.
+Auswahl 4 wurde gewählt.
+Choice 5 was chosen.
+Auswahl 5 wurde gewählt.
+Choice 6 was chosen.
+Auswahl 6 wurde gewählt.
+Choice 7 was chosen.
+Auswahl 7 wurde gewählt.
+The choice was cancelled.
+Die Auswahl wurde annulliert.
+\rPlease choose one. This choice can't be cancelled.
+\rBitte wählen Sie eines aus. Diese Auswahl kann nicht storniert werden.
+\rPlease choose one. Cancelling will result in Choice 3.
+\rBitte wählen Sie eines aus. Eine Stornierung führt zu Auswahl 3.
+This choice's name is too long!
+Der Name dieser Auswahl ist zu lang!
+Potions: {1}
+Tränke: {1}
+\rThis is an example of how to modify choices, using the hide_choice and rename_choice scripts.
+\rDies ist ein Beispiel dafür, wie Sie Auswahlmöglichkeiten mithilfe der Skripte hide_choice und rename_choice ändern können.
+This choice was renamed by rename_choice.
+Diese Auswahl wurde von rename_choice umbenannt.
+This choice is hidden if the player is not male.
+Diese Auswahl ist ausgeblendet, wenn der Spieler kein Mann ist.
+This choice is hidden if the player is not female.
+Diese Auswahl ist ausgeblendet, wenn der Spieler keine Frau ist.
+Debug mode is a special way of playing the game. It unlocks various developer features to make it easier to access all parts of the game and test things.
+Der Debug-Modus ist eine besondere Art, das Spiel zu spielen. Es schaltet verschiedene Entwicklerfunktionen frei, um den Zugriff auf alle Teile des Spiels und das Testen von Dingen zu erleichtern.
+Playing in Debug mode allows you to access the Debug menu (press F9 or find it in the pause menu).
+Wenn Sie im Debug-Modus spielen, können Sie auf das Debug-Menü zugreifen (drücken Sie F9 oder finden Sie es im Pause-Menü).
+The party screen and Pokémon storage have a similar debug menu for modifying a Pokémon's properties, such as its level or species.
+Der Gruppenbildschirm und der Pokémon-Speicher verfügen über ein ähnliches Debug-Menü zum Ändern der Eigenschaften eines Pokémon, wie z. B. seiner Stufe oder Art.
+You can use field moves at any time, and hold Ctrl to skip any battles and decide the outcome of Trainer battles. Hold Ctrl while moving to walk over anything.
+Sie können jederzeit Feldbewegungen ausführen und die Strg-Taste gedrückt halten, um Schlachten zu überspringen und über den Ausgang von Trainerkämpfen zu entscheiden. Halten Sie beim Bewegen die Strg-Taste gedrückt, um über alles zu gehen.
+A full list of Debug mode features is available on the wiki.
+Eine vollständige Liste der Funktionen des Debug-Modus finden Sie im Wiki.
+The $DEBUG variable was set to true. This flag is set automatically during playtesting within RMXP. This is what causes the game to be in Debug mode.
+Die Variable $DEBUG wurde auf true gesetzt. Dieses Flag wird während des Spieltests in RMXP automatisch gesetzt. Dies führt dazu, dass sich das Spiel im Debug-Modus befindet.
+Obtained all Gym Badges for the first and second regions.
+Alle Turnhallenabzeichen für die erste und zweite Region erhalten.
+To add a Gym Badge, use $player.badges[X]=true where X is a number from 0 through 7. Use $player.badges[X] to see if you have a Badge.
+Um ein Fitnessstudio-Abzeichen hinzuzufügen, verwenden Sie $player.badges[X]=true, wobei X eine Zahl von 0 bis 7 ist. Verwenden Sie $player.badges[X], um zu sehen, ob Sie ein Abzeichen haben.
+Note that the first Gym Badge is number 0, the second Badge is number 1, and so on.
+Beachten Sie, dass das erste Turnhallenabzeichen die Nummer 0 hat, das zweite Abzeichen die Nummer 1 und so weiter.
+In Debug mode, you can set which Gym Badges you have via the Debug menu.
+Im Debug-Modus können Sie über das Debug-Menü festlegen, welche Gym-Abzeichen Sie haben.
+Press F8 to take a screenshot of the game.
+Drücken Sie F8, um einen Screenshot des Spiels zu erstellen.
+The screenshot will be put in the same folder as the one containing the save file.
+Der Screenshot wird im selben Ordner abgelegt wie der, der die Sicherungsdatei enthält.
+Choose a text option.
+Wählen Sie eine Textoption.
+\bThis is the text of a male character. \rThis is the text of a female character.
+\bDies ist der Text einer männlichen Figur. \rDies ist der Text einer weiblichen Figur.
+\pgThis text is the colour of the player's gender.  \pogThis text is the colour of the opposite gender to the player.
+\pgDieser Text hat die Farbe des Geschlechts des Spielers. \pogDieser Text hat die Farbe des anderen Geschlechts des Spielers.
+\c[0]Default, \c[1]blue, \c[2]red, \c[3]green, \c[4]cyan, \c[5]magenta, \c[6]yellow, \c[7]grey, \c[8]white, \c[9]purple, \c[10]orange, \c[11]dark, \c[12]light.
+\c[0]Standard, \c[1]Blau, \c[2]Rot, \c[3]Grün, \c[4]Cyan, \c[5]Magenta, \c[6]Gelb, \c[7]Grau, \c[8]Weiß, \c[9]Lila, \c[10]Orange, \c[11]Dunkel, \c[12]Hell.
+<b>Bold text,</b> <i>italic text,</i> <u>underlined text,</u> <s>strikethrough text,</s> <outln>outline text,</outln> <outln2>thicker outline text.</outln2>
+<b>Fett gedruckter Text,</b> <i>kursiver Text,</i> <u>unterstrichener Text,</u> <s>durchgestrichener Text,</s> <outln>Umrisstext,</outln> <outln2>dickerer Umrisstext.</outln2>
+<fn=Power Clear Bold>Power Clear Bold text,</fn> <fs=25>size 25 text,</fs> <fs=40>size 40 text,</fs> <o=128>half-transparent text.</o>
+<fn=Power Clear Bold>Power Clear Bold-Text,</fn> <fs=25>Text der Größe 25,</fs> <fs=40>Text der Größe 40,</fs> <o=128>halbtransparenter Text.</o>
+This is a line\n break. Text is \n<r>right-aligned until next line\n break. Text is <ac>centred</ac> here.  Text is <ar>right-aligned</ar> here.
+Dies ist ein Zeilenumbruch. Der Text wird bis zum nächsten Zeilenumbruch rechtsbündig ausgerichtet. Der Text ist hier <ac>zentriert</ac>. Der Text ist hier <ar>rechtsbündig</ar>.
+\PN is the player's name, \PM is the player's money, \v[12] is the content of Game Variable 12.
+\PN ist der Name des Spielers, \PM ist das Geld des Spielers, \v[12] ist der Inhalt der Spielvariablen 12.
+This is <icon=bagPocket3> bagPocket3 from the folder Graphics/Icons. Icons shown this way are not padded.
+Dies ist <icon=bagPocket3> bagPocket3 aus dem Ordner Graphics/Icons. Auf diese Weise angezeigte Symbole werden nicht aufgefüllt.
+\GThe money window is shown.
+\GDas Geldfenster wird angezeigt.
+\CNThe coins window is shown.
+\CNDas Münzfenster wird angezeigt.
+\G\CNThe money and coins windows are both shown. The coins window must be shown second.
+\G\CNDie Fenster „Geld“ und „Münzen“ werden beide angezeigt. Als zweites muss das Münzfenster angezeigt werden.
+\f[introBoy]The introBoy picture from the Graphics/Pictures folder is shown.
+\f[introBoy]Das introBoy-Bild aus dem Ordner Graphics/Pictures wird angezeigt.
+\ff[introBoy]The introBoy picture is shown again, but cropped to the top-left 96x96 pixels of it.
+\ff[introBoy]Das introBoy-Bild wird erneut angezeigt, jedoch auf die oberen linken 96 x 96 Pixel zugeschnitten.
+\w[signskin]The windowskin has changed to "signskin" here.
+\w[signskin]Der Windowsskin wurde hier in „signskin“ geändert.
+\l[3]This message box has 3 lines to it rather than 2, so more text can be shown at once. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+\l[3]Dieses Meldungsfeld besteht aus 3 statt 2 Zeilen, sodass mehr Text auf einmal angezeigt werden kann. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+\wuThis message box is at the top.
+\wuDieses Meldungsfeld befindet sich oben.
+\wmThis message box is in the middle.
+\wmDieses Meldungsfeld befindet sich in der Mitte.
+\wuThis message box is\wm jumping around the screen\wd in a rather off-putting way.
+\wuDieses Meldungsfeld springt\wd auf ziemlich abstoßende Weise auf dem Bildschirm herum.
+\opThis message box slides on-screen at the start.
+\opDieses Meldungsfeld wird zu Beginn auf dem Bildschirm eingeblendet.
+\clThis message box slides off-screen at the end.
+\clDieses Meldungsfeld verschwindet am Ende vom Bildschirm.
+\ts[]This text appeared instantly!
+\ts[]Dieser Text erschien sofort!
+\ts[5]This text is slow to appear.
+\ts[5]Dieser Text wird nur langsam angezeigt.
+Slow text speed is 4, normal speed is 2, fast speed is 1. It takes this many 1/80ths of a second for the next character in a message to appear.
+Die langsame Textgeschwindigkeit ist 4, die normale Geschwindigkeit ist 2, die schnelle Geschwindigkeit ist 1. Es dauert so viele 1/80 Sekunden, bis das nächste Zeichen in einer Nachricht erscheint.
+\se[Pkmn move learnt]Sound effect "Pkmn move learnt" was played.
+\se[Pkmn-Zug gelernt]Soundeffekt „Pkmn-Zug gelernt“ wurde abgespielt.
+Music effect "Item get" will be played. \me[Item get]
+Der Musikeffekt „Item get“ wird abgespielt. \me[Item get]
+A complete list of all message options is available on the wiki.
+Eine vollständige Liste aller Nachrichtenoptionen finden Sie im Wiki.
+\PN received a Pokédex!
+\PN hat einen Pokédex erhalten!
+You already have a Pokédex.
+Du hast bereits einen Pokédex.
+You don't have any able Pokémon with you.
+Du hast kein fähiges Pokémon bei dir.
+\v[2] is the first Pokémon in your party.
+\v[2] ist das erste Pokémon in deiner Gruppe.
+You have a Celebi in your party.
+Sie haben einen Celebi in Ihrer Gruppe.
+You don't have a Celebi in your party.
+Du hast keinen Celebi in deiner Gruppe.
+\rRemember to read the wiki for further information.  An Internet shortcut to the wiki can be found in the project's main folder.
+\rDenken Sie daran, das Wiki für weitere Informationen zu lesen. Eine Internetverknüpfung zum Wiki finden Sie im Hauptordner des Projekts.
+You received a Pokégear and Running Shoes.
+Du hast ein Pokégear und Laufschuhe erhalten.
+\rOh... Are you all right? Well, you'll have better luck this time.
+\rOh... Geht es dir gut? Nun, dieses Mal wirst du mehr Glück haben.
+<<[>>This message was triggered by the "Starting Over" Game Switch being ON. Now turning that Game Switch off.<<]>>
+<<[>>Diese Meldung wurde dadurch ausgelöst, dass der Spielschalter „Neu starten“ eingeschaltet war. Schalten Sie jetzt den Spielschalter aus.<<]>>
+Choose a roaming Pokémon.
+Wähle ein umherstreifendes Pokémon.
+Switch 53 is on. Latias and Latios are roaming.
+Schalter 53 ist eingeschaltet. Latias und Latios streifen umher.
+Switch 53 is off. Latias and Latios are not roaming.  Do you want to make Latias and Latios roam?
+Schalter 53 ist ausgeschaltet. Latias und Latios sind nicht unterwegs. Möchten Sie Latias und Latios herumlaufen lassen?
+Latias and Latios are now roaming.
+Latias und Latios sind jetzt unterwegs.
+Switch 54 is on. Kyogre is roaming.
+Schalter 54 ist eingeschaltet. Kyogre wandert umher.
+Switch 54 is off. Kyogre is not roaming. Do you want to make Kyogre roam?
+Schalter 54 ist ausgeschaltet. Kyogre wandert nicht. Möchten Sie Kyogre herumlaufen lassen?
+Kyogre is now roaming.
+Kyogre wandert jetzt umher.
+Switch 55 is on. Entei is roaming.
+Schalter 55 ist eingeschaltet. Entei ist unterwegs.
+Switch 55 is off. Entei is not roaming. Do you want to make Entei roam?
+Schalter 55 ist ausgeschaltet. Entei ist nicht unterwegs. Möchten Sie Entei zum Umherwandern bringen?
+Entei is now roaming.
+Entei ist jetzt unterwegs.
+Game Corner
+Spielecke
+Trainer area
+Trainerbereich
+Shadow Pokémon area
+Schatten-Pokémon-Bereich
+Bridges map
+Karte der Brücken
+Water map
+Wasserkarte
+Harbor
+Hafen
+Cycle Road
+Radweg
+Cancel
+Stornieren
+About the trainer
+Über den Trainer
+Map connections
+Kartenverbindungen
+Terrain Tags
+Gelände-Tags
+Choice 1
+Wahl 1
+Choice 2
+Wahl 2
+Choice 3
+Wahl 3
+Choice 4
+Wahl 4
+Choice 5
+Wahl 5
+Choice 6
+Wahl 6
+Choice 7
+Wahl 7
+You won't see me!
+Du wirst mich nicht sehen!
+The player is male
+Der Spieler ist männlich
+The player is female
+Der Spieler ist weiblich
+Debug mode
+Debug-Modus
+Give all badges
+Geben Sie alle Abzeichen
+Taking screenshots
+Screenshots machen
+Text colours
+Textfarben
+Text formatting
+Textformatierung
+Insert text/in-line graphics
+Fügen Sie Text/Inline-Grafiken ein
+Graphic and info windows
+Grafik- und Infofenster
+Message box appearance
+Erscheinungsbild des Meldungsfelds
+Text speed and audio
+Textgeschwindigkeit und Audio
+Audio
+Audio
+What is your first Pokémon?
+Was ist dein erstes Pokémon?
+Is a Celebi in your party?
+Ist ein Celebi in Ihrer Gruppe?
+Give a Celebi
+Gib einen Celebi
+Latias/Latios
+Latias/Latios
+Kyogre
+Kyogre
+Entei
+Entei
+Yes
+Ja
+No
+Nein
+Poké Center
+Poké-Center
+Poké Mart
+Poké Mart
+Pokémon Gym
+Pokémon-Fitnessstudio
+Day Care
+Tagesbetreuung
+Cave
+Höhle
+Safari Zone
+Safari-Zone
+Bug Catching Contest
+Bug-Catching-Wettbewerb
+Battle Frontier
+Kampfgrenze
+#-------------------------------
+[Map004]
+This ball contains a Pokémon caught by the Professor.
+Dieser Ball enthält ein vom Professor gefangenes Pokémon.
+\bOak: So, you want Charmander, the fire Pokémon?
+\bEiche: Du willst also Charmander, das Feuer-Pokémon?
+\bOak: Choose carefully!
+\bEiche: Wählen Sie sorgfältig aus!
+Game Variable 7 should store 1 if the player chose the Grass starter, 2 if they chose the Fire starter, and 3 if they chose the Water starter.
+Spielvariable 7 sollte 1 speichern, wenn der Spieler den Grasstarter gewählt hat, 2, wenn er den Feuerstarter gewählt hat, und 3, wenn er den Wasserstarter gewählt hat.
+This information can be used later in the game, e.g.  to determine which Pokémon the rival uses, and to detect when the player has chosen a starter at all.
+Diese Informationen können später im Spiel verwendet werden, z.B. um festzustellen, welches Pokémon der Rivale verwendet, und um zu erkennen, wann der Spieler überhaupt einen Starter ausgewählt hat.
+\bOak: So, you want Squirtle, the water Pokémon?
+\bEiche: Du willst also Squirtle, das Wasser-Pokémon?
+\bOak: You should battle with your Pokémon to make it strong.
+\bEiche: Du solltest mit deinem Pokémon kämpfen, um es stark zu machen.
+\bOak: If you register me in your Pokégear, you can call me any time to rate your Pokédex completion.
+\bOak: Wenn du mich in deinem Pokégear registrierst, kannst du mich jederzeit anrufen, um deinen Pokédex-Abschluss zu bewerten.
+\bOak: Please let me know how you get on!
+\bOak: Bitte lassen Sie mich wissen, wie es Ihnen geht!
+\bOak: Oh, okay. Let me know if you change your mind.
+\bEiche: Oh, okay. Lassen Sie mich wissen, wenn Sie Ihre Meinung ändern.
+\bOak: Well, which one do you want?
+\bOak: Nun, welches möchtest du?
+\PN received a Pokédex!
+\PN hat einen Pokédex erhalten!
+You already have a Pokédex.
+Du hast bereits einen Pokédex.
+\bOak: Wait, don't leave yet!
+\bEiche: Warte, geh noch nicht!
+\bI can control your Pokédex access. What do you want me to do?
+\bIch kann deinen Pokédex-Zugriff kontrollieren. Was soll ich tun?
+\bWhat about it?
+\bWas ist damit?
+\bThe Kanto Dex was unlocked.
+\bDer Kanto Dex wurde freigeschaltet.
+\bThe Kanto Dex was locked.
+\bDer Kanto Dex war gesperrt.
+\bThe Johto Dex was unlocked.
+\bDer Johto Dex wurde freigeschaltet.
+\bThe Johto Dex was locked.
+\bDer Johto Dex war gesperrt.
+\bThe National Dex was unlocked.
+\bDer Nationaldex wurde freigeschaltet.
+\bThe National Dex was locked.
+\bDer National Dex war gesperrt.
+\bOak: Here, take one of these rare Pokémon.
+\bEiche: Hier, nimm eines dieser seltenen Pokémon.
+\bOak: Ah, you made your choice!
+\bEiche: Ah, du hast deine Wahl getroffen!
+\bOak: Bulbasaur, an excellent choice!
+\bEiche: Bulbasaur, eine ausgezeichnete Wahl!
+\bOak: Charmander, an excellent choice!
+\bEiche: Charmander, eine ausgezeichnete Wahl!
+\bOak: Squirtle, an excellent choice!
+\bEiche: Squirtle, eine ausgezeichnete Wahl!
+\bOak: If I had a grandson, he would probably want his own Pokémon around now...
+\bEiche: Wenn ich einen Enkel hätte, würde er jetzt wahrscheinlich sein eigenes Pokémon haben wollen ...
+\bOak: So, you want Bulbasaur, the grass Pokémon?
+\bEiche: Du willst also Bulbasaur, das Gras-Pokémon?
+The event next to the Professor contains the autorun commands.
+Das Ereignis neben dem Professor enthält die Autorun-Befehle.
+There are two times it does something: when the player first enters the map, and when the player has chosen a starter.
+Es gibt zwei Situationen, in denen es etwas bewirkt: wenn der Spieler die Karte zum ersten Mal betritt und wenn der Spieler einen Starter ausgewählt hat.
+The second time is on a higher page number. Page numbers go in order of first to last cutscene, including pages for pauses between them if relevant.
+Das zweite Mal ist auf einer höheren Seitenzahl. Die Seitenzahlen sind in der Reihenfolge von der ersten bis zur letzten Zwischensequenz geordnet, einschließlich der Seiten für die Pausen dazwischen, sofern relevant.
+Yes
+Ja
+No
+Nein
+Kanto Dex access
+Kanto Dex-Zugriff
+Johto Dex access
+Johto Dex-Zugriff
+National Dex access
+National Dex-Zugriff
+Exit
+Ausfahrt
+Unlock Kanto Dex
+Schalte Kanto Dex frei
+Lock Kanto Dex
+Kanto Dex sperren
+Unlock Johto Dex
+Schalte Johto Dex frei
+Lock Johto Dex
+Johto Dex sperren
+Unlock National Dex
+Schalte National Dex frei
+Lock National Dex
+National Dex sperren
+#-------------------------------
+[Map006]
+\bHello! I'm Kurt!
+\bHallo! Ich bin Kurt!
+\bI specialise in turning Apricorns into Poké Balls.
+\bIch bin darauf spezialisiert, Aprikosen in Pokébälle zu verwandeln.
+\bIf you like, I can convert one of yours into a Poké Ball.
+\bWenn du möchtest, kann ich einen von dir in einen Pokéball umwandeln.
+\bHello again.
+\bHallo nochmal.
+\bDo you have an Apricorn for me?
+\bHaben Sie eine Aprikose für mich?
+\bWhich Apricorn would you like me to convert?
+\bWelche Aprikose soll ich konvertieren?
+\bLet me know when you want me to convert an Apricorn for you.
+\bLassen Sie mich wissen, wann ich ein Aprikosenstück für Sie umbauen soll.
+\bOkay. I'll turn your \v[3] into a Poké Ball for you.
+\bOkay. Ich verwandle dein \v[3] für dich in einen Pokéball.
+\bI should be finished by tomorrow.
+\bIch sollte morgen fertig sein.
+\bCome back when you have an Apricorn for me.
+\bKomm zurück, wenn du ein Aprikose für mich hast.
+\bI've been waiting for you. I've completed the Poké Ball you asked me to make.
+\bIch habe auf dich gewartet. Ich habe den Pokéball fertiggestellt, den du von mir machen wolltest.
+\bYou have no room left. Make room, then come see me.
+\bDu hast keinen Platz mehr. Machen Sie Platz, dann kommen Sie zu mir.
+\bI tried making a Poké Ball out of what you gave me, but it didn't work.
+\bIch habe versucht, aus dem, was du mir gegeben hast, einen Pokéball zu machen, aber es hat nicht funktioniert.
+\bSorry.
+\bEntschuldigung.
+\bI'm still working on your Apricorn. Come back later.
+\bIch arbeite immer noch an deinem Apricorn. Komme später wieder.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map007]
+\w[signskin]Cedolan Gym
+\w[signskin]Cedolan Gym
+\w[signskin]Move Maniac Meeting Room
+\w[signskin]Maniac-Besprechungsraum verschieben
+\w[signskin]Pokémon Institute
+\w[signskin]Pokémon-Institut
+\w[signskin]"Building Tomorrow Out Of Yesterday"
+\w[signskin]"Aus Gestern das Morgen bauen"
+#-------------------------------
+[Map008]
+\rHi! I'm the Contest Lady!
+\rHallo! Ich bin die Contest-Lady!
+\rI give out contest ribbons. Do you want one?
+\rIch verteile Wettbewerbsbänder. Möchtest du eins?
+\rSorry, your \v[2] already has the highest ranked Cool Ribbon.
+\rLeider hat Ihr \v[2] bereits das Cool Ribbon mit dem höchsten Rang.
+\PN received the \v[3]. \me[Item get]\wtnp[40]
+\PN hat das \v[3] erhalten. \me[Item get]\wtnp[40]
+\PN put the \v[3] on \v[2].
+\PN setzt das \v[3] auf \v[2].
+\rThat's your choice.
+\rDas ist Ihre Entscheidung.
+\bIf you'd like, I could judge the intriguing potential of your Pokémon.
+\bWenn Sie möchten, könnte ich das faszinierende Potenzial Ihres Pokémon beurteilen.
+\bWhich Pokémon would you like me to judge?
+\bWelches Pokémon soll ich beurteilen?
+\b...Oh? You don't need me to judge. I get it.
+\b...Oh? Du brauchst nicht, dass ich urteile. Ich verstehe es.
+\bI see, I see...
+\bIch verstehe, ich verstehe...
+\bThis Pokémon's potential is outstanding overall.
+\bDas Potenzial dieses Pokémon ist insgesamt hervorragend.
+\bThis Pokémon's potential is relatively superior overall.
+\bDas Potenzial dieses Pokémon ist insgesamt relativ überlegen.
+\bThis Pokémon's potential is above average overall.
+\bDas Potenzial dieses Pokémon ist insgesamt überdurchschnittlich.
+\bThis Pokémon's potential is decent overall.
+\bDas Potenzial dieses Pokémon ist insgesamt ordentlich.
+\bThat's my determination, and it's final.
+\bDas ist meine Entscheidung und sie ist endgültig.
+\bIncidentally, I would say the best potential lies in its \v[4] stat.
+\bÜbrigens würde ich sagen, dass das beste Potenzial in seinem \v[4]-Status liegt.
+\bAnd its Attack stat is also good.
+\bUnd sein Angriffswert ist auch gut.
+\bI see, its Defense stat is also good.
+\bIch verstehe, sein Verteidigungswert ist auch gut.
+\bWell, its Speed stat is also good.
+\bNun, sein Geschwindigkeitsstatus ist auch gut.
+\bIts Special Attack stat is equally good.
+\bSein Spezialangriffswert ist ebenso gut.
+\bIts Special Defense stat is good as well.
+\bSeine Spezialverteidigungswerte sind ebenfalls gut.
+\bIt can't be better in that regard. That's how I judged it.
+\bIn dieser Hinsicht kann es nicht besser sein. So habe ich es beurteilt.
+\bIt's fantastic in that regard. That's how I judged it.
+\bIn dieser Hinsicht ist es fantastisch. So habe ich es beurteilt.
+\bIt's very good in that regard. That's how I judged it.
+\bIn dieser Hinsicht ist es sehr gut. So habe ich es beurteilt.
+\bIt's rather decent in that regard. That's how I judged it.
+\bIn dieser Hinsicht ist es ziemlich anständig. So habe ich es beurteilt.
+\rDaisy: Hi, \PN!
+\rDaisy: Hallo, \PN!
+\rDaisy: Would you like me to groom one of your Pokémon?
+\rDaisy: Möchtest du, dass ich eines deiner Pokémon pflege?
+\rDaisy: Which Pokémon do you want me to groom?
+\rDaisy: Welches Pokémon soll ich pflegen?
+\rDaisy: Oh, okay then.
+\rDaisy: Oh, dann okay.
+\rDaisy: There! \v[2] looks a lot happier and prettier now!
+\rDaisy: Da! \v[2] sieht jetzt viel glücklicher und hübscher aus!
+\bDr. Footstep: Hi! I rate the footprints of Pokémon!
+\bDr. Schritt: Hallo! Ich bewerte die Fußabdrücke von Pokémon!
+\bDr. Footstep: Can I rate your Pokémon for you?
+\bDr. Footstep: Kann ich deine Pokémon für dich bewerten?
+\bDr. Footstep: Which Pokémon do you want me to rate?
+\bDr. Footstep: Welches Pokémon soll ich bewerten?
+\bDr. Footstep: Maybe next time, then.
+\bDr. Footstep: Vielleicht das nächste Mal.
+\bDr. Footstep: By any chance, you... Are you a very strict person? I feel that your \v[2] really doesn't like you...
+\bDr. Footstep: Du bist zufällig... Bist du ein sehr strenger Mensch? Ich habe das Gefühl, dass dein \v[2] dich wirklich nicht mag ...
+\bDr. Footstep: Hmmm... Your \v[2] may not like you very much.
+\bDr. Schritt: Hmmm... Dein \v[2] mag dich vielleicht nicht besonders.
+\bDr. Footstep: The relationship is neither good nor bad... Your \v[2] looks neutral.
+\bDr. Schritt: Die Beziehung ist weder gut noch schlecht... Dein \v[2] sieht neutral aus.
+\bDr. Footstep: Your \v[2] is a little friendly to you...  That's what I'm getting.
+\bDr. Schritt: Dein \v[2] ist ein wenig freundlich zu dir ... Das verstehe ich.
+\bDr. Footstep: Your \v[2] is friendly to you. It must be happy with you.
+\bDr. Schritt: Dein \v[2] ist freundlich zu dir. Es muss glücklich mit dir sein.
+\bDr. Footstep: Your \v[2] is quite friendly to you! You must be a kind person!
+\bDr. Schritt: Dein \v[2] ist sehr freundlich zu dir! Du musst ein freundlicher Mensch sein!
+\bDr. Footstep: Your \v[2] is super friendly to you! I'm a bit jealous!
+\bDr. Schritt: Dein \v[2] ist super freundlich zu dir! Ich bin ein bisschen neidisch!
+\bDr. Footstep: I shall reward your \v[2] with a ribbon!
+\bDr. Schritt: Ich werde dein \v[2] mit einem Band belohnen!
+\PN received the Footprint Ribbon. \me[Item get]\wtnp[20]
+\PN erhielt das Footprint Ribbon. \me[Item get]\wtnp[20]
+\PN put the Footprint Ribbon on \v[2].
+\PN Legen Sie das Footprint-Band auf \v[2].
+\rOh?\nYour \v[1]...
+\rOh?\nDein \v[1]...
+\rOh! Your \v[1], that Effort Ribbon looks good on it!
+\rOh! Dein \v[1], das Effort Ribbon sieht gut aus!
+\rWent for it stupendously!
+\rHat es großartig gemacht!
+\rAs its reward, please give it this Effort Ribbon.
+\rAls Belohnung gib ihm bitte dieses Eifer-Band.
+\PN received the Effort Ribbon. \me[Item get]\wtnp[20]
+\PN erhielt das Effort Ribbon. \me[Item get]\wtnp[20]
+\PN put the Effort Ribbon on \v[1].
+\PN Legen Sie das Effort-Menüband auf \v[1].
+\rYou have to go for it a little harder.
+\rMan muss es etwas härter angehen.
+\rIf you do, I'll give your Pokémon something nice.
+\rWenn du das tust, gebe ich deinem Pokémon etwas Schönes.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map009]
+\bBill: Hello! I'm \v[2].
+\bBill: Hallo! Ich bin \v[2].
+\bI invented the Pokémon Storage System.
+\bIch habe das Pokémon-Speichersystem erfunden.
+\bWhat do you want to know?
+\bWas möchtest du wissen?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAlle Aufbewahrungsbox-Hintergrundbilder müssen in der Klasse PokemonStorage aufgeführt sein, auf jeden Fall allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bSie entsprechen box_0.png, box_1.png usw. in der Reihenfolge ohne Lücken. Diese Bilder befinden sich im Ordner Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bSpeicherhintergründe sind in zwei Kategorien unterteilt: Basis- und Spezialhintergründe. Alle Basishintergründe werden vor den Spezialhintergründen aufgeführt.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bEinfache Hintergrundbilder sind immer verfügbar und Boxen verwenden diese Hintergrundbilder standardmäßig. Die Zahlen von 0 bis einschließlich 15 sind Basis-Hintergrundbilder.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpezielle Hintergrundbilder sind zunächst gesperrt und nicht verfügbar. Sie können sie mit pbUnlockWallpaper(id) entsperren, wobei id die Nummer des Hintergrundbilds ist.
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+Wallpapers
+Hintergrundbilder
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map010]
+\bThis is an example of a Pokémon Gym.
+\bDies ist ein Beispiel für ein Pokémon-Fitnessstudio.
+\bThe only differences are that the trainers become inactive when the Leader is defeated, and the Leader gives you a Gym Badge and TM as a reward.
+\bDer einzige Unterschied besteht darin, dass die Trainer inaktiv werden, wenn der Anführer besiegt wird, und der Anführer Ihnen als Belohnung ein Arenaabzeichen und ein TM gibt.
+\bYou've made it this far, but can you beat me?
+\bDu hast es bis hierher geschafft, aber kannst du mich schlagen?
+\me[Badge get]\bYou've earned the Boulder Badge.
+\me[Abzeichen erhalten]\bDu hast das Boulder-Abzeichen erhalten.
+\bHere, have this TM too.
+\bHier, haben Sie auch dieses TM.
+\bYou may find the Pokémon on Route 1 are a little tougher now.
+\bMöglicherweise sind die Pokémon auf Route 1 jetzt etwas härter.
+\bI often work in the caves on Route 7, digging up fossils.
+\bIch arbeite oft in den Höhlen an der Route 7 und grabe Fossilien aus.
+\bThere's a man in the Pokémon Institute who can revive fossils into living Pokémon.
+\bEs gibt einen Mann im Pokémon-Institut, der Fossilien in lebende Pokémon wiederbeleben kann.
+\bBattle me now!
+\bKämpfe jetzt gegen mich!
+\bYou're pretty hot. But not as hot as Brock!
+\bDu bist ziemlich heiß. Aber nicht so heiß wie Brock!
+#-------------------------------
+[Map011]
+\bOh, hello. I'm a scientist.
+\bOh, hallo. Ich bin Wissenschaftler.
+\bI can turn fossils into living, breathing Pokémon!
+\bIch kann Fossilien in lebende, atmende Pokémon verwandeln!
+\bAiyah! You come again!
+\bAiyah! Du kommst wieder!
+\bDo you have a fossil for me?
+\bHaben Sie ein Fossil für mich?
+\bWhich fossil do you want me to revive?
+\bWelches Fossil soll ich wiederbeleben?
+\bLet me know when you want me to revive a fossil for you.
+\bLassen Sie mich wissen, wenn ich ein Fossil für Sie wiederbeleben soll.
+\bOkay. I'll see if I can revive your \v[3].
+\bOkay. Ich werde sehen, ob ich Ihr \v[3] wiederbeleben kann.
+\bCome back later.
+\bKomm später wieder.
+\bI'll be here if you want my help.
+\bIch bin hier, wenn du meine Hilfe brauchst.
+\bWhere have you been? I've finished reviving your fossil.
+\bWo warst du? Ich habe Ihr Fossil wiederbelebt.
+\bIt was \v[3] like I thought.
+\bEs war \v[3] wie ich dachte.
+\bYou have no room left. Make room, then come see me.
+\bDu hast keinen Platz mehr. Machen Sie Platz, dann kommen Sie zu mir.
+\bI managed to revive your fossil.
+\bIch habe es geschafft, Ihr Fossil wiederzubeleben.
+\bHowever, what I brought back didn't live long...\1 fortunately.
+\bAllerdings überlebte das, was ich mitbrachte, nicht lange...\1 zum Glück.
+\bSorry.
+\bEntschuldigung.
+\bI told you, come back later.
+\bIch habe dir gesagt, komm später wieder.
+\bHello, huh! My name is Carl Ess. I can turn combinations of partial Fossils into living, breathing Pokémon!
+\bHallo, huh! Mein Name ist Carl Ess. Ich kann Kombinationen aus Teilfossilien in lebende, atmende Pokémon verwandeln!
+\bHm? You've got some Fossils there, huh. Will you show them to me, Carl Ess?
+\bHm? Da hast du ein paar Fossilien, hm. Zeigst du sie mir, Carl Ess?
+\bWhich of your Fossils do you think stands up to the high standards of Carl Ess?
+\bWelches Ihrer Fossilien hält Ihrer Meinung nach den hohen Standards von Carl Ess stand?
+\bWhich of your Fossils do you think will pique the curiosity of Carl Ess?
+\bWelches Ihrer Fossilien wird Ihrer Meinung nach die Neugier von Carl Ess wecken?
+\bCome see me when you have some interesting Fossils.
+\bKommen Sie zu mir, wenn Sie interessante Fossilien haben.
+\bSo I should restore the Fossilized Bird and the Fossilized Drake together, huh?
+\bAlso sollte ich den versteinerten Vogel und den versteinerten Drachen zusammen restaurieren, oder?
+\bSo I should restore the Fossilized Bird and the Fossilized Dino together, huh?
+\bAlso sollte ich den versteinerten Vogel und den versteinerten Dino zusammen restaurieren, oder?
+\bSo I should restore the Fossilized Fish and the Fossilized Drake together, huh?
+\bAlso sollte ich den versteinerten Fisch und den versteinerten Drachen zusammen restaurieren, oder?
+\bSo I should restore the Fossilized Fish and the Fossilized Dino together, huh?
+\bAlso sollte ich den versteinerten Fisch und den versteinerten Dino zusammen restaurieren, oder?
+\bOK. Restoration time. Let's unravel the mystery of these Fossils!
+\bOK. Wiederherstellungszeit. Lassen Sie uns das Geheimnis dieser Fossilien lüften!
+\bAll right, I'll stick 'em together! Here... we... GO!
+\bAlles klar, ich klebe sie zusammen! Auf geht's!
+\bObjective complete. It seems the restoration was a great success.
+\bZiel abgeschlossen. Es scheint, dass die Restaurierung ein großer Erfolg war.
+\bYes, I can see it in its eyes. This is a Pokémon that walked the face of Essen in ancient times! Please take and care for this Pokémon, huh.
+\bJa, ich kann es in seinen Augen sehen. Dies ist ein Pokémon, das in der Antike über Essen wandelte! Bitte nimm dieses Pokémon und pflege es.
+\bOh, you don't have space in your party, huh. Make some room and then come back here for your Pokémon.
+\bOh, du hast keinen Platz in deiner Gruppe, oder? Machen Sie etwas Platz und kommen Sie dann für Ihr Pokémon hierher zurück.
+\bOh. They don't seem to work together.
+\bOh. Sie scheinen nicht zusammenzuarbeiten.
+\bMaybe some other time, then.
+\bDann vielleicht ein andermal.
+\bHuh, have you made some room for your Pokémon yet?
+\bHm, hast du schon etwas Platz für deine Pokémon geschaffen?
+\bYou haven't. Make some room and then come back here.
+\bDas hast du nicht. Machen Sie etwas Platz und kommen Sie dann hierher zurück.
+Yes
+Ja
+No
+Nein
+Fossilized Bird
+Versteinerter Vogel
+Fossilized Fish
+Versteinerter Fisch
+Quit
+Aufhören
+Fossilized Drake
+Versteinerter Drake
+Fossilized Dino
+Versteinerter Dino
+Yes, please
+ja bitte
+I want to try something else
+Ich möchte etwas anderes ausprobieren
+#-------------------------------
+[Map012]
+\rHello! I'm a Move Tutor!
+\rHallo! Ich bin ein Umzugslehrer!
+\rI can teach a special and powerful move to your Pokémon.
+\rIch kann deinem Pokémon eine besondere und mächtige Attacke beibringen.
+\rWhich special move would you like me to teach?
+\rWelche Spezialbewegung soll ich dir beibringen?
+\rWould you like me to teach another Pokémon a special move?
+\rMöchten Sie, dass ich einem anderen Pokémon eine besondere Attacke beibringe?
+\rCome back any time!
+\rKommen Sie jederzeit wieder!
+\bUh...\nOh, yes, I'm the Move Deleter.
+\bÄh...\nOh ja, ich bin der Move-Deleter.
+\bI can make Pokémon forget their moves.
+\bIch kann Pokémon dazu bringen, ihre Bewegungen zu vergessen.
+\bWould you like me to do that?
+\bSoll ich das tun?
+\bWhich Pokémon should forget a move?
+\bWelches Pokémon sollte einen Zug vergessen?
+\bCome again if there are moves that need to be forgotten.
+\bKommen Sie wieder, wenn es Bewegungen gibt, die vergessen werden müssen.
+\bWhat? No Egg should know any moves.
+\bWas? Kein Ei sollte irgendwelche Bewegungen kennen.
+\bWhat? I can't make a Shadow Pokémon forget a move.
+\bWas? Ich kann ein Schatten-Pokémon nicht dazu bringen, eine Bewegung zu vergessen.
+\b\v[3] seems to know only one move...
+\b\v[3] scheint nur einen Zug zu kennen ...
+\bWhich move should be forgotten?
+\bWelcher Zug sollte vergessen werden?
+\bHm! \v[3]'s \v[4]? That move should be forgotten?
+\bHm! \v[3]s \v[4]? Dieser Schritt sollte vergessen werden?
+\bIt worked to perfection!
+\bEs hat perfekt funktioniert!
+\b\v[3] has forgotten \v[4] completely.
+\b\v[3] hat \v[4] komplett vergessen.
+\bI'm the Pokémon Move Maniac.
+\bIch bin der Pokémon-Move-Maniac.
+\bI know every single move that Pokémon learn growing up.
+\bIch kenne jede einzelne Bewegung, die Pokémon lernen, wenn sie erwachsen werden.
+\bI'm also a collector of Heart Scales.
+\bIch bin auch ein Sammler von Herzwaagen.
+\bIf you bring me one, I'll teach a move to one of your Pokémon.
+\bWenn du mir eines mitbringst, bringe ich einem deiner Pokémon eine Attacke bei.
+\bOh! That's it! That's an honest to goodness Heart Scale!
+\bOh! Das ist es! Das ist eine ehrliche Herzskala!
+\bLet me guess, you want me to teach one of your Pokémon a move?
+\bLass mich raten, du möchtest, dass ich einem deiner Pokémon eine Attacke beibringe?
+\bWhich Pokémon needs tutoring?
+\bWelches Pokémon braucht Nachhilfe?
+\bIf your Pokémon need to learn a move, come back with a Heart Scale.
+\bWenn Ihr Pokémon eine Bewegung lernen muss, kommen Sie mit einer Herzwaage zurück.
+\bHunh? There isn't a single move that I can teach an Egg.
+\bHäh? Es gibt keine einzige Bewegung, die ich einem Ei beibringen kann.
+\bNo way, I don't want to go near a Shadow Pokémon.
+\bAuf keinen Fall, ich möchte nicht in die Nähe eines Schatten-Pokémon kommen.
+\bSorry...
+\bEntschuldigung...
+\bIt doesn't appear as if I have any move I can teach to your \v[3].
+\bEs sieht nicht so aus, als hätte ich irgendeinen Zug, den ich deinem \v[3] beibringen könnte.
+\bWhich move should I teach to your \v[3]?
+\bWelchen Zug soll ich deinem \v[3] beibringen?
+\PN handed over one Heart Scale in exchange.
+\PN übergab im Austausch eine Herzwaage.
+\bHello, hello!\nI am the official Name Rater!
+\bHallo, hallo!\nIch bin der offizielle Namensbewerter!
+\bWant me to rate the nicknames of your Pokémon?
+\bSoll ich die Spitznamen deiner Pokémon bewerten?
+\bWhich Pokémon's nickname should I critique?
+\bWelcher Pokémon-Spitzname sollte ich kritisieren?
+\bI see.\nDo come visit again.
+\bIch verstehe.\nKomm doch mal wieder vorbei.
+\bNow, now... That is merely an Egg!
+\bNun, nun... Das ist nur ein Ei!
+\bI wouldn't dare critique a Shadow Pokémon's name!
+\bIch würde es nicht wagen, den Namen eines Schatten-Pokémon zu kritisieren!
+\bHmmm... \v[3] it is!
+\bHmmm... \v[3] das ist es!
+\bThis is a magnificent nickname! It is impeccably beyond reproach!
+\bDas ist ein großartiger Spitzname! Es ist absolut über jeden Zweifel erhaben!
+\bYou'll do well to cherish your \v[3] now and beyond.
+\bSie tun gut daran, Ihr \v[3] jetzt und darüber hinaus zu schätzen.
+\b\v[3], is it?\nThat is a decent nickname!
+\b\v[3], oder?\nDas ist ein anständiger Spitzname!
+\bBut, would you like me to give it a nicer name?
+\bAber möchten Sie, dass ich ihm einen schöneren Namen gebe?
+\bHow about it?
+\bWie wäre es damit?
+\bAh, good. Then, what shall the new nickname be?
+\bAh, gut. Wie soll dann der neue Spitzname lauten?
+{1}'s nickname?
+{1}s Spitzname?
+\bI see. You're right, there's no need to change this Pokémon's nickname.
+\bIch verstehe. Du hast Recht, es besteht keine Notwendigkeit, den Spitznamen dieses Pokémon zu ändern.
+\bIt already had a superb name!
+\bEs hatte schon einen tollen Namen!
+\bDone! From now on, this Pokémon shall be known as \v[3]!
+\bFertig! Von nun an wird dieses Pokémon als \v[3] bekannt sein!
+\bIt looks no different from before, and yet, this is vastly superior!
+\bEs sieht nicht anders aus als zuvor und ist dennoch um Längen überlegen!
+\bHow fortunate for you!
+\bWas für ein Glück für dich!
+\bDone! From now on, this Pokémon shall be known as \v[5]!
+\bFertig! Von nun an wird dieses Pokémon als \v[5] bekannt sein!
+\bIt is a better name than before!\nHow fortunate for you!
+\bEs ist ein besserer Name als zuvor!\nWas für ein Glück für dich!
+Frenzy Plant
+Wilde Pflanze
+Blast Burn
+Explosionsbrand
+Hydro Cannon
+Hydrokanone
+Exit
+Ausfahrt
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map013]
+\rIf you win, I'll give you an Arceus card!
+\rWenn du gewinnst, gebe ich dir eine Arceus-Karte!
+\rOh, you don't have enough cards to play. You need at least 5.
+\rOh, du hast nicht genug Karten zum Spielen. Sie benötigen mindestens 5.
+\bMr. Game: Show me how you play and make my heart pound with excitement!
+\bHerr. Spiel: Zeig mir, wie du spielst und lasse mein Herz vor Aufregung höher schlagen!
+\rI'm here to explain the rules of Triple Triad.
+\rIch bin hier, um die Regeln der Triple Triad zu erklären.
+\rWhich topic do you want to learn about?
+\rÜber welches Thema möchten Sie mehr erfahren?
+\rTriple Triad is a game played with special cards placed on a 3x3 board.
+\rTriple Triad ist ein Spiel, bei dem spezielle Karten auf einem 3x3-Brett platziert werden.
+\rEach card has 4 numbers on it, one per side.  These numbers are so-called stats.
+\rAuf jeder Karte sind 4 Zahlen abgebildet, eine auf jeder Seite. Bei diesen Zahlen handelt es sich um sogenannte Statistiken.
+\rPlayers take turns placing cards on the board. As they do so, they try to capture and gain control of their opponent's cards.
+\rDie Spieler legen abwechselnd Karten auf das Spielbrett. Dabei versuchen sie, die Karten ihres Gegners zu erobern und die Kontrolle darüber zu erlangen.
+\rThat's where the numbers come in. If a player places a card with a higher number next to a card with a lower number, the player captures that card.
+\rHier kommen die Zahlen ins Spiel. Wenn ein Spieler eine Karte mit einer höheren Zahl neben eine Karte mit einer niedrigeren Zahl legt, erobert der Spieler diese Karte.
+\rThus, the goal of the game is to gain control of more cards than the other player by the end of the game.
+\rZiel des Spiels ist es also, bis zum Ende des Spiels die Kontrolle über mehr Karten als der andere Spieler zu erlangen.
+\rThere are a number of optional game rules you can apply to individual games.
+\rEs gibt eine Reihe optionaler Spielregeln, die Sie auf einzelne Spiele anwenden können.
+\rThey can affect card stats, how cards capture each other, the scoring and the prizes.
+\rSie können sich auf die Kartenstatistiken, die Art und Weise, wie Karten sich gegenseitig erfassen, die Wertung und die Preise auswirken.
+\rWhen you win a game, you will recive 1 random card from your opponent from their Deck.
+\rWenn du ein Spiel gewinnst, erhältst du 1 zufällige Karte von deinem Gegner aus seinem Deck.
+\rThis also works the other way around: if you lose, you have to give your opponent one of your cards, chosen at random.
+\rDas funktioniert auch andersherum: Wenn Sie verlieren, müssen Sie Ihrem Gegner eine Ihrer zufällig ausgewählten Karten geben.
+\rYou can change what you win or lose from a game by using an optional game rule.
+\rSie können mithilfe einer optionalen Spielregel ändern, was Sie in einem Spiel gewinnen oder verlieren.
+\rThis is the Pokémon Lottery Corner. I'm Felicity, your attendant today.
+\rDies ist die Pokémon-Lotterie-Ecke. Ich bin Felicity, Ihre Begleiterin heute.
+\rIf the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.
+\rWenn die gezogene Nummer mit der ID-Nummer eines deiner Pokémon übereinstimmt, kannst du tolle Geschenke gewinnen.
+\rWould you like to check today's lucky number?
+\rMöchten Sie die heutige Glückszahl überprüfen?
+\rFirst, I'll look up today's Pokémon Lottery Corner lucky number.
+\rZuerst schaue ich nach der heutigen Glückszahl in der Pokémon Lotterie-Ecke.
+...
+...
+\rYour Loto Ticket number is \v[1].
+\rIhre Loto-Ticketnummer ist \v[1].
+\rNow, let's see if it matches the ID No. of any of your Pokémon.
+\rJetzt wollen wir sehen, ob es mit der ID-Nummer eines deiner Pokémon übereinstimmt.
+\rI'm sorry. You didn't get a match...
+\rEs tut mir leid. Du hast keine Übereinstimmung gefunden...
+\rPlease do visit again.
+\rBitte besuchen Sie uns noch einmal.
+\rCongratulations!
+\rHerzlichen Glückwunsch!
+\rThe ID number of your team's \v[2] matches your Loto Ticket number!
+\rDie ID-Nummer Ihres Teams \v[2] stimmt mit Ihrer Loto-Ticketnummer überein!
+\rThe ID number of your PC-boxed \v[2] matches your Loto Ticket number!
+\rDie ID-Nummer Ihres PC-verpackten \v[2] stimmt mit der Nummer Ihres Loto-Tickets überein!
+\rOh my goodness, all five digits matched!
+\rOh mein Gott, alle fünf Ziffern stimmten überein!
+\rYou've won the jackpot prize!
+\rSie haben den Jackpot-Preis gewonnen!
+\rPlease do visit again! Good-bye from Felicity, your attendant!
+\rBitte besuchen Sie uns noch einmal! Auf Wiedersehen von Felicity, Ihrer Begleiterin!
+\rYou have no room left. Make room, then come see me.
+\rSie haben keinen Platz mehr. Machen Sie Platz, dann kommen Sie zu mir.
+\rThe last four digits matched, so you win the first prize!
+\rDie letzten vier Ziffern stimmen überein, Sie gewinnen also den ersten Preis!
+\rThe last three digits matched, so you win the second prize!
+\rDie letzten drei Ziffern stimmen überein, Sie gewinnen also den zweiten Preis!
+\rThe last two digits matched, so you win the third prize!
+\rDie letzten beiden Ziffern stimmen überein, Sie gewinnen also den dritten Preis!
+\rThe last digit matched, so you win the fourth prize!
+\rDie letzte Ziffer stimmt überein, Sie gewinnen also den vierten Preis!
+\rOh, I see.\nPlease do visit us again.
+\rOh, ich verstehe.\nBitte besuchen Sie uns noch einmal.
+\rYou've already drawn a Loto Ticket today. Please come back tomorrow.
+\rSie haben heute bereits einen Lottoschein gezogen. Bitte kommen Sie morgen wieder.
+\rI've been waiting for you. Here's the item you won.
+\rIch habe auf dich gewartet. Hier ist der Artikel, den Sie gewonnen haben.
+\CN\bWe exchange your coins for prizes.
+\CN\bWir tauschen Ihre Münzen gegen Preise.
+\CN\bWhich prize would you like?
+\CN\bWelchen Preis möchtest du?
+\CN\bPlease save your Coins and come again!
+\CN\bBitte bewahren Sie Ihre Münzen auf und kommen Sie wieder!
+\CN\bSo, you want the \v[3]?
+\CN\bDu willst also das \v[3]?
+\CN\bSorry, you'll need more coins than that.
+\CN\bLeider benötigen Sie mehr Münzen.
+\CN\bHere you go!\1
+\CN\bHier bitte!\1
+\CN\bYou have no room in your Bag.
+\CN\bIn Ihrer Tasche ist kein Platz mehr.
+\bWelcome to the Triad Card Shop.
+\bWillkommen im Triad Card Shop.
+\bAnything else I can do for you?
+\bKann ich sonst noch etwas für Sie tun?
+\bHere is where you can purchase new cards for Triple Triad duels.
+\bHier können Sie neue Karten für Triple-Triad-Duelle kaufen.
+\bThe selection grows as you catch and find new Pokémon, so check often.
+\bDie Auswahl wächst, wenn Sie neue Pokémon fangen und finden. Schauen Sie also regelmäßig vorbei.
+\bAnd, of course, stronger Pokémon cards cost more than weaker cards.
+\bUnd natürlich kosten stärkere Pokémon-Karten mehr als schwächere Karten.
+\bYou don't have to use this shop in your game. It's just an example of how the player could gain Triple Triad cards. You could implement other ways.
+\bSie müssen diesen Shop nicht in Ihrem Spiel verwenden. Es ist nur ein Beispiel dafür, wie der Spieler Triple-Triad-Karten erhalten könnte. Sie könnten andere Möglichkeiten implementieren.
+\bPlease come again.
+\bBitte kommen Sie noch einmal.
+\CN\bYour party's full!\nPlease make some room before you come back.
+\CN\bIhre Gruppe ist voll!\nBitte machen Sie etwas Platz, bevor Sie zurückkommen.
+\CN\bWould you like \v[3]?
+\CN\bMöchten Sie \v[3]?
+\CN\PN received the \v[3]!
+\CN\PN hat das \v[3]! erhalten.
+\bMy name is Mr. Game!
+\bMein Name ist Mr. Game!
+\bMy heart pounds with excitement when people enjoy my Coin game!
+\bMein Herz klopft vor Aufregung, wenn die Leute mein Münzspiel genießen!
+\bIn fact, that's what I live for!\nGo ahead and play it!
+\bTatsächlich lebe ich dafür!\nMach weiter und spiel es!
+\bMake my heart pound with excitement!
+\bLass mein Herz vor Aufregung höher schlagen!
+\bGo ahead and play my Coin game!
+\bMach weiter und spiele mein Münzspiel!
+\bI'm ready to duel with you.
+\bIch bin bereit, mit dir zu duellieren.
+\bOh, you don't have enough cards to play. You need at least 5.
+\bOh, du hast nicht genug Karten zum Spielen. Sie benötigen mindestens 5.
+\G\CN\bWelcome to Rocket Game Corner!
+\G\CN\bWillkommen bei Rocket Game Corner!
+\G\CN\bDo you need some game coins?\nWould you like to buy some?
+\G\CN\bBenötigen Sie Spielmünzen?\nMöchten Sie welche kaufen?
+\G\CN\bYou don't have a Coin Case.
+\G\CN\bSie haben keinen Münzkoffer.
+\G\CN\bWhoops!\nYour Coin Case is full.
+\G\CN\bUps!\nDein Münzkoffer ist voll.
+\G\CN\bYou can't afford the coins.
+\G\CN\bSie können sich die Münzen nicht leisten.
+\G\CN\bThank you\nHere are your coins!
+\G\CN\bDanke\nHier sind deine Münzen!
+\G\CN\bNo?\nPlease come play sometime!
+\G\CN\bNein?\nBitte kommen Sie einmal zum Spielen!
+\rReady for a real rule duel?
+\rBereit für ein echtes Regelduell?
+\bI built my deck specially for this!
+\bIch habe mein Deck speziell dafür gebaut!
+\rWelcome!
+\rWillkommen!
+\rOh, you don't have a Coin Case? Here.
+\rOh, du hast kein Münzfach? Hier.
+\rYou can exchange your coins for fabulous prizes next door.
+\rSie können Ihre Münzen nebenan gegen tolle Preise eintauschen.
+\rYou don't have any room for it. Come back when you do.
+\rSie haben keinen Platz dafür. Kommen Sie zurück, wenn Sie es tun.
+Basics
+Grundlagen
+Game rules
+Spielregeln
+Prizes
+Preise
+Exit
+Ausfahrt
+Yes
+Ja
+No
+Nein
+Smoke Ball - 800 coins
+Rauchball – 800 Münzen
+Miracle Seed - 1000 coins
+Wundersamen – 1000 Münzen
+Charcoal - 1000 coins
+Kohle – 1000 Münzen
+Mystic Water - 1000 coins
+Mystisches Wasser – 1000 Münzen
+Yellow Flute - 1600 coins
+Gelbe Flöte – 1600 Münzen
+No thanks
+Nein danke
+Buy Cards
+Karten kaufen
+Sell Cards
+Karten verkaufen
+Information
+Information
+Abra - 180 coins
+Abra – 180 Münzen
+Clefairy - 500 coins
+Clefairy – 500 Münzen
+Dratini - 2800 coins
+Dratini – 2800 Münzen
+Scyther - 5500 coins
+Sense – 5500 Münzen
+Porygon - 9999 coins
+Porygon – 9999 Münzen
+TM13 - 4000 coins
+TM13 – 4000 Münzen
+TM23 - 3500 coins
+TM23 – 3500 Münzen
+TM24 - 4000 coins
+TM24 – 4000 Münzen
+TM30 - 4500 coins
+TM30 – 4500 Münzen
+TM35 - 4000 coins
+TM35 – 4000 Münzen
+50 coins [$1,000]
+50 Münzen [1.000 $]
+500 coins [$10,000]
+500 Münzen [10.000 $]
+#-------------------------------
+[Map014]
+\sign[signskin]1F: Service Counter
+\sign[signskin]1F: Serviceschalter
+\rHello! Welcome to Cedolan Dept. Store.
+\rHallo! Willkommen im Cedolan Dept. Store.
+#-------------------------------
+[Map015]
+\sign[signskin]Top-Grade Items for Trainers!
+\sign[signskin]Erstklassige Gegenstände für Trainer!
+\sign[signskin]2F: Trainer's Market
+\sign[signskin]2F: Trainermarkt
+#-------------------------------
+[Map016]
+\sign[signskin]3F: TV Game Shop
+\sign[signskin]3F: TV-Spieleshop
+#-------------------------------
+[Map017]
+\sign[signskin]Express yourself with gifts!\n4F: Wise Man Gifts
+\sign[signskin]Drücken Sie sich mit Geschenken aus!\n4F: Wise Man Gifts
+\sign[signskin]Evolution Special!\nElement Stones on sale now!
+\sign[signskin]Evolution Special!\nElementsteine jetzt im Angebot!
+#-------------------------------
+[Map018]
+\sign[signskin]5F: Drugstore
+\sign[signskin]5F: Drogerie
+#-------------------------------
+[Map019]
+\sign[signskin]Rooftop Square: Vending Machines
+\sign[signskin]Dachplatz: Verkaufsautomaten
+It's a vending machine.\n Which drink would you like?\G
+Es ist ein Verkaufsautomat.\n Welches Getränk möchtest du?\G
+\GA Fresh Water dropped down!
+\GA Frisches Wasser ist heruntergefallen!
+\GBonus! Another Fresh Water dropped down.
+\GBonus! Ein weiteres Süßwasser fiel herab.
+\GYou have no room left in the Bag.
+\GSie haben keinen Platz mehr in der Tasche.
+\GYou don't have enough money.
+\GDu hast nicht genug Geld.
+\GA Soda Pop dropped down!
+\GA Soda Pop ist heruntergefallen!
+\GBonus! Another Soda Pop dropped down.
+\GBonus! Eine weitere Limonade fiel herunter.
+\GA Lemonade dropped down!
+\GA Limonade ist heruntergefallen!
+\GBonus! Another Lemonade dropped down.
+\GBonus! Eine weitere Limonade fiel herunter.
+\GDecided not to buy a drink.
+\GIch habe beschlossen, kein Getränk zu kaufen.
+Fresh Water - $200
+Süßwasser – 200 $
+Soda Pop - $300
+Limonade – 300 $
+Lemonade - $350
+Limonade – 350 $
+Cancel
+Stornieren
+#-------------------------------
+[Map020]
+Which floor do you want?
+Welchen Boden wünschen Sie?
+5F
+5F
+4F
+4F
+3F
+3F
+2F
+2F
+1F
+1F
+Cancel
+Stornieren
+#-------------------------------
+[Map023]
+\bAh, it's you!
+\bAh, du bist es!
+\bWe were raising your Pokémon, and my goodness, were we surprised!
+\bWir haben deine Pokémon großgezogen und meine Güte, waren wir überrascht?
+\bYour Pokémon was holding an Egg!
+\bDein Pokémon hielt ein Ei in der Hand!
+\bWe don't know how it got there, but your Pokémon had it.
+\bWir wissen nicht, wie es dorthin gelangt ist, aber dein Pokémon hatte es.
+\bYou do want it, don't you?
+\bDu willst es doch, nicht wahr?
+\bYou have no room for it right now... Come back when you've made room.
+\bDu hast im Moment keinen Platz dafür... Komm zurück, wenn du Platz geschaffen hast.
+\me[Egg get]\PN received the Egg from the Day-Care Man.
+\me[Egg get]\PN hat das Ei vom Tagespfleger erhalten.
+\bYou take good care of it.
+\bDu kümmerst dich gut darum.
+\bI really will keep it. You do want this Egg, yes?
+\bIch werde es wirklich behalten. Du willst dieses Ei, ja?
+\bWell all right then, I'll take it. Thank you.
+\bNa gut, dann nehme ich es. Danke schön.
+\bThat is, I don't think we'll ever find another...
+\bDas heißt, ich glaube nicht, dass wir jemals einen anderen finden werden ...
+\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!
+\bNein, nein, ich bin sicher, wir finden noch einen. Da bin ich mir auf jeden Fall sicher!
+\bI'm the Day-Care Man.
+\bIch bin der Tagesbetreuer.
+\bI help take care of the precious Pokémon of trainers.
+\bIch helfe dabei, mich um die wertvollen Pokémon der Trainer zu kümmern.
+\bAny Pokémon you'd like to have raised you can leave in my wife's care.
+\bJedes Pokémon, das du großziehen möchtest, kannst du der Obhut meiner Frau überlassen.
+\bAh, it's you!\nGood to see you!
+\bAh, du bist es!\nSchön, dich zu sehen!
+\bYour \v[3] is doing just fine.
+\bIhrem \v[3] geht es gut.
+\bYour \v[3] and \v[4] are doing just fine.
+\bIhre \v[3] und \v[4] funktionieren einwandfrei.
+\bThe two play with other Pokémon rather than with each other...
+\bDie beiden spielen eher mit anderen Pokémon als miteinander ...
+\bThe two don't seem to like each other much.
+\bDie beiden scheinen sich nicht besonders zu mögen.
+\bThe two seem to get along.
+\bDie beiden scheinen miteinander auszukommen.
+\bThe two seem to get along very well.
+\bDie beiden scheinen sehr gut miteinander auszukommen.
+\bWe're having a sale today. 25% off all Poké Balls.
+\bWir haben heute einen Ausverkauf. 25 % Rabatt auf alle Pokébälle.
+\w[signskin]Pokémon Fan Club
+\w[signskin]Pokémon-Fanclub
+\bHi! I'm super thirsty. Do you have a Lemonade? I'll trade you a Bicycle for one. I have too many Bicycles.
+\bHallo! Ich bin super durstig. Haben Sie eine Limonade? Ich tausche dir ein Fahrrad gegen eins. Ich habe zu viele Fahrräder.
+\bOh, you have a Lemonade? Would you consider exchanging it for a Bicycle?
+\bOh, du hast eine Limonade? Würden Sie darüber nachdenken, es gegen ein Fahrrad einzutauschen?
+\bExcellent! Here you go.
+\bAusgezeichnet! Bitte schön.
+\bThank you! I really needed this.
+\bVielen Dank! Ich brauchte das wirklich.
+\bYou have no space in your Bag. I don't want to just take your Lemonade, so come back when I can give you a Bicycle in return.
+\bSie haben keinen Platz in Ihrer Tasche. Ich möchte nicht nur deine Limonade nehmen, also komm zurück, wenn ich dir im Gegenzug ein Fahrrad geben kann.
+\bThat's too bad. I really am thirsty.
+\bDas ist schade. Ich habe wirklich Durst.
+\bAre you enjoying your Bicycle? The Lemonade you gave me was just what I needed.
+\bMacht Ihnen Ihr Fahrrad Spaß? Die Limonade, die du mir gegeben hast, war genau das, was ich brauchte.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map024]
+\bBill: Hello! I'm \v[2].
+\bBill: Hallo! Ich bin \v[2].
+\bI invented the Pokémon Storage System.
+\bIch habe das Pokémon-Speichersystem erfunden.
+\bWhat do you want to know?
+\bWas möchtest du wissen?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAlle Aufbewahrungsbox-Hintergrundbilder müssen in der Klasse PokemonStorage aufgeführt sein, auf jeden Fall allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bSie entsprechen box_0.png, box_1.png usw. in der Reihenfolge ohne Lücken. Diese Bilder befinden sich im Ordner Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bSpeicherhintergründe sind in zwei Kategorien unterteilt: Basis- und Spezialhintergründe. Alle Basishintergründe werden vor den Spezialhintergründen aufgeführt.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bEinfache Hintergrundbilder sind immer verfügbar und Boxen verwenden diese Hintergrundbilder standardmäßig. Die Zahlen von 0 bis einschließlich 15 sind Basis-Hintergrundbilder.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpezielle Hintergrundbilder sind zunächst gesperrt und nicht verfügbar. Sie können sie mit pbUnlockWallpaper(id) entsperren, wobei id die Nummer des Hintergrundbilds ist.
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+Wallpapers
+Hintergrundbilder
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map025]
+There is a questionnaire.\nWould you like to fill it out?
+Es gibt einen Fragebogen.\nMöchten Sie ihn ausfüllen?
+\PN filled in the questionnaire.
+\PN hat den Fragebogen ausgefüllt.
+\bOh, hello!\nYou filled in the questionnaire?
+\bOh, hallo!\nDu hast den Fragebogen ausgefüllt?
+\bThat means you must know about the Mystery Gift.
+\bDas bedeutet, dass Sie über das Geheimnisgeschenk Bescheid wissen müssen.
+\bFrom now on, you should be receiving Mystery Gifts!
+\bVon jetzt an sollten Sie Mystery-Geschenke erhalten!
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\w[signskin]Sobald Sie Ihr Spiel gespeichert haben, können Sie auf das Mystery Gift zugreifen.
+\bHello. You must be \PN.
+\bHallo. Sie müssen \PN sein.
+\bI've received a gift for you.\nHere you go!
+\bIch habe ein Geschenk für dich erhalten.\nHier bitte!
+\bI haven't received any other gifts for you.
+\bIch habe keine weiteren Geschenke für dich erhalten.
+\bWe look forward to your next visit.
+\bWir freuen uns auf Ihren nächsten Besuch.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map026]
+\rI'm looking for a female Dragonair.
+\rIch suche eine weibliche Dragonair.
+\rWant to trade it for my Dodrio?
+\rMöchten Sie es gegen meinen Dodrio eintauschen?
+\rYou don't want to trade?  Aww...
+\rSie möchten nicht handeln? Aww...
+\rOK, let's get started.
+\rOK, fangen wir an.
+Doris
+Doris
+Ayana
+Ayana
+\PN traded Dragonair for Dodrio!
+\PN hat Dragonair gegen Dodrio eingetauscht!
+\rThanks!
+\rDanke!
+\rAre you taking good care of Doris?
+\rKümmerst du dich gut um Doris?
+\bMy Shuckie is a great Pokémon, but I can't train it anymore.
+\bMein Shuckie ist ein tolles Pokémon, aber ich kann es nicht mehr trainieren.
+\bWould you take Shuckie and raise it like it deserves?
+\bWürden Sie Shuckie nehmen und ihn so erziehen, wie er es verdient?
+Kirk
+Kirche
+Shuckie
+Shuckie
+\bTake good care of Shuckie!
+\bPass gut auf Shuckie auf!
+\bOh, you don't have any space for it.
+\bOh, du hast keinen Platz dafür.
+\bOh, that's a shame.
+\bOh, das ist eine Schande.
+\bAre you raising my Shuckie well?
+\bErziehst du meinen Shuckie gut?
+\bOh, hi!
+\bOh, hallo!
+\bWould you like this Pokémon Egg?
+\bMöchten Sie dieses Pokémon-Ei?
+Fan Club President
+Präsident des Fanclubs
+\me[Egg get]\PN received the Egg from the Fan Club President.
+\me[Egg get]\PN erhielt das Ei vom Präsidenten des Fanclubs.
+\bTake good care of it!
+\bPass gut darauf auf!
+\bOh, you can't carry it with you.
+\bOh, du kannst es nicht mit dir tragen.
+\bMake some space in your party and come back.
+\bMachen Sie etwas Platz in Ihrer Gruppe und kommen Sie zurück.
+\bOh. Will I ever find someone to take this Egg?
+\bOh. Werde ich jemals jemanden finden, der dieses Ei nimmt?
+\bI wonder what that Egg will hatch into?
+\bIch frage mich, was aus diesem Ei schlüpfen wird?
+\bI'm looking for a Rattata.
+\bIch suche eine Rattata.
+\bWant to trade it for my Haunter?
+\bMöchten Sie es gegen meinen Haunter eintauschen?
+\bYou don't want to trade? Aww...
+\bSie möchten nicht handeln? Aww...
+\bOK, let's get started.
+\bOK, fangen wir an.
+HaHa
+Haha
+Andy
+Andy
+\PN traded Rattata for Haunter!
+\PN hat Rattata gegen Haunter eingetauscht!
+\bThanks!
+\bDanke!
+\bThanks for trading with me!
+\bVielen Dank für den Handel mit mir!
+There's no more room for Pokémon!
+Es gibt keinen Platz mehr für Pokémon!
+The Pokémon Boxes are full and can't accept any more!
+Die Pokémon-Boxen sind voll und können keine weiteren aufnehmen!
+\rI have a rather special Bulbasaur! Its ability is something I could only dream of.
+\rIch habe einen ganz besonderen Bulbasaur! Von seiner Fähigkeit konnte ich nur träumen.
+\rI can't look after it, though. Would you like Bulbasaur?
+\rIch kann mich allerdings nicht darum kümmern. Mögen Sie Bulbasaur?
+Dorima
+Dorima
+Sauri
+Sauri
+\rTake good care of Sauri!
+\rPass gut auf Sauri auf!
+\rOh, you don't have any space.
+\rOh, du hast keinen Platz.
+\rOh, that's a shame.
+\rOh, das ist eine Schande.
+\rI hope you're taking good care of my Sauri!
+\rIch hoffe, du kümmerst dich gut um meinen Sauri!
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map027]
+\rAh, there you are! My husband was looking for you.
+\rAh, da bist du ja! Mein Mann hat nach dir gesucht.
+\rI'm the Day-Care Lady. We can raise Pokémon for you.
+\rIch bin die Tagesmutter. Wir können Pokémon für Sie züchten.
+\rWould you like us to raise your Pokémon?
+\rMöchten Sie, dass wir Ihre Pokémon aufziehen?
+\rOh? But you only have one Pokémon with you.
+\rOh? Aber du hast nur ein Pokémon bei dir.
+\rYou can't go off without a Pokémon. Come back another time.
+\rOhne ein Pokémon kann man nicht losziehen. Kommen Sie ein anderes Mal wieder.
+\rWhich Pokémon should we raise for you?
+\rWelches Pokémon sollen wir für dich großziehen?
+\rOh, fine, then.\nCome again.
+\rOh, dann gut.\nKomm wieder.
+\rIf you leave me that Pokémon, what are you gonna battle with?
+\rWenn du mir dieses Pokémon überlässt, womit wirst du kämpfen?
+\rCome back another time.
+\rKommen Sie ein anderes Mal wieder.
+\rFine, we'll raise your \v[3] for a while.
+\rGut, wir erhöhen Ihr \v[3] für eine Weile.
+\rCome back for it later.
+\rKommen Sie später noch einmal vorbei.
+\rWe can raise two of your Pokémon. Would you like us to raise another?
+\rWir können zwei deiner Pokémon großziehen. Möchten Sie, dass wir noch einen erhöhen?
+\rVery good. Come again.
+\rSehr gut. Komm wieder.
+\rThat Pokémon looks like it would rather stay with you.
+\rDieses Pokémon scheint lieber bei dir zu bleiben.
+\rAh, it's you! Good to see you. Now, about your Pokémon...
+\rAh, du bist es! Schön dich zu sehen. Nun zu deinem Pokémon ...
+\rBy level, your \v[3] has grown by about \v[4].
+\rNach Level ist Ihr \v[3] um etwa \v[4] gewachsen.
+\rDo you want your Pokémon back?
+\rWillst du dein Pokémon zurück?
+\rYour Pokémon team is full. Make room, then come see me.
+\rDein Pokémon-Team ist voll. Machen Sie Platz, dann kommen Sie zu mir.
+Which one do you want back?
+Welches möchtest du zurück?
+\G\rIf you want your \v[3] back, it will cost $\v[4].
+\G\rWenn Sie Ihr \v[3] zurückhaben möchten, kostet es $\v[4].
+\G\rYou don't have enough money...
+\G\rDu hast nicht genug Geld...
+\G\rExcellent\nHere's your Pokémon.
+\G\rAusgezeichnet\nHier ist dein Pokémon.
+\PN took \v[3] back from the Day-Care Lady.
+\PN nahm \v[3] von der Tagesmutter zurück.
+\G\rDo you want to take back the other one, too?
+\G\rWillst du den anderen auch zurücknehmen?
+\bI'll tell you what type your Pokémon's Hidden Power will be.
+\bIch sage dir, welcher Art die verborgene Kraft deines Pokémon sein wird.
+\bMy own hidden power lets me do that.
+\bMeine eigene verborgene Kraft lässt mich das tun.
+\bOh, no. This Pokémon can't learn the move Hidden Power in the first place.
+\bOh, nein. Dieses Pokémon kann die Attacke „Verborgene Kraft“ gar nicht erst erlernen.
+\bThis Pokémon's Hidden Power is the \v[2] type.
+\bDie verborgene Kraft dieses Pokémon ist vom Typ \v[2].
+\bIf this Pokémon were to learn Hidden Power, the move's type would be \v[2].
+\bWenn dieses Pokémon Verborgene Kraft erlernen würde, wäre der Angriffstyp \v[2].
+\bIf you want to know, ask me, and I'll activate my hidden power for you.
+\bWenn du es wissen willst, frag mich und ich aktiviere meine verborgene Kraft für dich.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map029]
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bWir hoffen, dass Sie in Zukunft an einem Bug-Catching-Wettbewerb teilnehmen!
+\bToday's \v[1].
+\bHeutiges \v[1].
+\bThat means the Bug-Catching Contest is on today.
+\bDas bedeutet, dass heute der Bug-Catching-Wettbewerb stattfindet.
+\bThe rules are simple.
+\bDie Regeln sind einfach.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bFang mit einem deiner Pokémon ein Käfer-Pokémon, das beurteilt werden soll.
+\bWould you like to give it a try?
+\bMöchten Sie es versuchen?
+\bSorry, your PC boxes are full.
+\bLeider sind Ihre PC-Boxen voll.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bDu darfst nur 1 Pokémon zum Wettbewerb mitnehmen.
+\bPlease choose which Pokémon you want to enter with.
+\bBitte wählen Sie aus, mit welchem Pokémon Sie teilnehmen möchten.
+\bOK. We hope you'll take part in the future.
+\bOK. Wir hoffen, dass Sie in Zukunft teilnehmen.
+\bYou will be entering with \v[2], then.
+\bSie geben dann mit \v[2] ein.
+\bWe'll hold your other Pokémon while you compete.
+\bWir halten deine anderen Pokémon fest, während du antrittst.
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\PNs Pokémon blieben beim Wettbewerbshelfer.\se[Pkmn exp full]\wtnp[20]
+\bHere are the Sport Balls for the Contest.
+\bHier sind die Sportbälle für den Wettbewerb.
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\PN hat 20 Sportbälle erhalten.\me[Item get]\wtnp[40]
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bDie Person, die das stärkste Käfer-Pokémon bekommt, ist der Gewinner.
+\bYou have 20 minutes.
+\bDu hast 20 Minuten.
+\bIf you run out of Sport Balls, you're done.
+\bWenn Ihnen die Sportbälle ausgehen, sind Sie fertig.
+\bYou can keep the last Pokémon you catch as your own.
+\bDu kannst das letzte Pokémon, das du gefangen hast, als dein eigenes behalten.
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bGeh raus und fange das stärkste Käfer-Pokémon, das du finden kannst!
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bWir veranstalten regelmäßig Wettbewerbe im Park. Du solltest es versuchen.
+\bYou still have some time left. Do you want to finish now?
+\bSie haben noch etwas Zeit. Möchten Sie jetzt fertig werden?
+\bOK. Please wait in the pavillion for the announcement of the winners.
+\bOK. Bitte warten Sie im Pavillon auf die Bekanntgabe der Gewinner.
+\bOK. Please go back outside and finish up.
+\bOK. Bitte gehen Sie wieder nach draußen und machen Sie fertig.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map030]
+Barry: \bI work a lot, but that's not good enough to win.
+Barry: \bIch arbeite viel, aber das reicht nicht aus, um zu gewinnen.
+Samuel: \bI put lots of effort in, but that's not good enough to win.
+Samuel: \bIch habe mir viel Mühe gegeben, aber das reicht nicht aus, um zu gewinnen.
+Abby: \rI try my best, but that's not good enough to win.
+Abby: \rIch gebe mein Bestes, aber das reicht nicht aus, um zu gewinnen.
+\bWe hope you'll take part in a Bug-Catching Contest in the future!
+\bWir hoffen, dass Sie in Zukunft an einem Bug-Catching-Wettbewerb teilnehmen!
+\bToday's \v[1].
+\bHeutiges \v[1].
+\bThat means the Bug-Catching Contest is on today.
+\bDas bedeutet, dass heute der Bug-Catching-Wettbewerb stattfindet.
+\bThe rules are simple.
+\bDie Regeln sind einfach.
+\bUsing one of your Pokémon, catch a Bug-type Pokémon to be judged.
+\bFang mit einem deiner Pokémon ein Käfer-Pokémon, das beurteilt werden soll.
+\bWould you like to give it a try?
+\bMöchten Sie es versuchen?
+\bSorry, your PC boxes are full.
+\bLeider sind Ihre PC-Boxen voll.
+\bYou are only allowed to take 1 Pokémon into the Contest.
+\bDu darfst nur 1 Pokémon zum Wettbewerb mitnehmen.
+\bPlease choose which Pokémon you want to enter with.
+\bBitte wählen Sie aus, mit welchem Pokémon Sie teilnehmen möchten.
+\bOK. We hope you'll take part in the future.
+\bOK. Wir hoffen, dass Sie in Zukunft teilnehmen.
+\bYou will be entering with \v[2], then.
+\bSie geben dann mit \v[2] ein.
+\bWe'll hold your other Pokémon while you compete.
+\bWir halten deine anderen Pokémon fest, während du antrittst.
+\PN's Pokémon were left with the Contest Helper.\se[Pkmn exp full]\wtnp[20]
+\PNs Pokémon blieben beim Wettbewerbshelfer.\se[Pkmn exp full]\wtnp[20]
+\bHere are the Sport Balls for the Contest.
+\bHier sind die Sportbälle für den Wettbewerb.
+\PN received 20 Sport Balls.\me[Item get]\wtnp[40]
+\PN hat 20 Sportbälle erhalten.\me[Item get]\wtnp[40]
+\bThe person who gets the strongest bug Pokémon is the winner.
+\bDie Person, die das stärkste Käfer-Pokémon bekommt, ist der Gewinner.
+\bYou have 20 minutes.
+\bDu hast 20 Minuten.
+\bIf you run out of Sport Balls, you're done.
+\bWenn Ihnen die Sportbälle ausgehen, sind Sie fertig.
+\bYou can keep the last Pokémon you catch as your own.
+\bDu kannst das letzte Pokémon, das du gefangen hast, als dein eigenes behalten.
+\bGo out and catch the strongest Bug-type Pokémon you can find!
+\bGeh raus und fange das stärkste Käfer-Pokémon, das du finden kannst!
+\bWe hold contests regularly in the Park. You should give it a shot.
+\bWir veranstalten regelmäßig Wettbewerbe im Park. Du solltest es versuchen.
+\bYou still have some time left. Do you want to finish now?
+\bSie haben noch etwas Zeit. Möchten Sie jetzt fertig werden?
+\bPlease wait here for the announcement of the winners.
+\bBitte warten Sie hier auf die Bekanntgabe der Gewinner.
+\bOK. Please go back outside and finish up.
+\bOK. Bitte gehen Sie wieder nach draußen und machen Sie fertig.
+\bWe will now judge the Pokémon you've caught.
+\bWir werden jetzt die Pokémon beurteilen, die du gefangen hast.
+......\wt[10]\n......
+......\wt[10]\n......
+\bWe have chosen the winners!\nAre you ready for this?
+\bWir haben die Gewinner ausgewählt!\nSind Sie bereit dafür?
+\bPlacing third is \v[1], who caught a writhing \v[2]!
+\bDritter wurde \v[1], der einen sich windenden \v[2] erwischte!
+\bThe score was \v[3] points!
+\bDie Punktzahl betrug \v[3] Punkte!
+\bPlacing second is \v[1], who caught a wriggling \v[2]!
+\bAn zweiter Stelle steht \v[1], der einen zappelnden \v[2] gefangen hat!
+\bThis Bug-Catching Contest winner is...
+\bDer Gewinner des Bug-Catching-Wettbewerbs ist...
+\b\v[1], who caught a whopping \v[2]!
+\b\v[1], der einen satten \v[2] gefangen hat!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the \v[3]!
+\me[Bug-Wettbewerb 1.]\b\PN, der Erstplatzierte, gewinnt den \v[3]!
+\me[Bug contest 1st]\b\PN, the First Place finisher, wins the Sun Stone!
+\me[Bug-Wettbewerb 1.]\b\PN, der Erstplatzierte, gewinnt den Sonnenstein!
+\me[Bug contest 2nd]\b\PN, the Second Place finisher, wins the Everstone!
+\me[Bug-Wettbewerb 2.]\b\PN, der Zweitplatzierte, gewinnt den Everstone!
+\me[Bug contest 3rd]\b\PN, the Third Place finisher, wins the Sitrus Berry!
+\me[Bug-Wettbewerb 3.]\b\PN, der Drittplatzierte, gewinnt die Sitrus-Beere!
+\bEveryone else gets a Shed Shell as a consolation prize!
+\bAlle anderen bekommen als Trostpreis eine Shed Shell!
+\bWe'll return the Pokémon we kept for you. Here you go!\se[Pkmn exp full]
+\bWir geben die Pokémon zurück, die wir für dich behalten haben. Bitte schön!\se[Pkmn exp full]
+Josh: \bI study a lot, but that's not good enough to win.
+Josh: \bIch lerne viel, aber das ist nicht gut genug, um zu gewinnen.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map031]
+\bDid I notice you, or did you notice me?
+\bHabe ich dich bemerkt, oder hast du mich bemerkt?
+\bShall we exchange numbers, so we can have a rematch?
+\bSollen wir die Nummern austauschen, damit wir einen Rückkampf haben können?
+\bLet's have a rematch!
+\bLass uns einen Rückkampf haben!
+\bI'll get even stronger, and beat you next time!
+\bIch werde noch stärker und werde dich das nächste Mal schlagen!
+\bI don't think I'll ever be able to beat you.
+\bIch glaube nicht, dass ich dich jemals schlagen kann.
+\rI'll wait here, then.
+\rDann werde ich hier warten.
+\rYou'll need at least two Pokémon or a partner if you want to battle us.
+\rDu brauchst mindestens zwei Pokémon oder einen Partner, wenn du gegen uns kämpfen willst.
+\rAh, looks like a challenging trainer. Ready, Bob?
+\rAh, sieht aus wie ein herausfordernder Trainer. Bereit, Bob?
+\rOur events weren't created by comments, because we need to check how many Pokémon you had.
+\rUnsere Events wurden nicht durch Kommentare erstellt, da wir überprüfen müssen, wie viele Pokémon du hattest.
+\rDo you want to team up with me again?
+\rWillst du wieder mit mir zusammenarbeiten?
+\PN teamed up with May!\me[Item get]\wtnp[40]
+\PN hat sich mit May zusammengetan!\me[Item get]\wtnp[40]
+\rOK then.
+\rOkay, dann.
+\rBattle me now!
+\rKämpfe jetzt gegen mich!
+\rCan I add you to my contacts list?
+\rKann ich Sie zu meiner Kontaktliste hinzufügen?
+\rI say the same thing after every battle. Why? Just because.
+\rDas Gleiche sage ich nach jedem Kampf. Warum? Nur weil.
+Something unseeable is in the way. Want to use the Silph Scope?
+Etwas Unsichtbares steht im Weg. Möchten Sie das Silph Scope verwenden?
+Something unseeable is in the way. Want to use the Devon Scope?
+Etwas Unsichtbares steht im Weg. Möchten Sie das Devon Scope verwenden?
+Something unseeable is in the way.
+Etwas Unsichtbares steht im Weg.
+The invisible Pokémon became completely visible!
+Das unsichtbare Pokémon wurde vollständig sichtbar!
+The startled Pokémon attacked!
+Das erschrockene Pokémon griff an!
+\bYou'll need at least two Pokémon or a partner if you want to battle us.
+\bDu benötigst mindestens zwei Pokémon oder einen Partner, wenn du gegen uns kämpfen willst.
+\bAh, looks like a challenging trainer. Ready, Alice?
+\bAh, sieht aus wie ein herausfordernder Trainer. Bereit, Alice?
+\bOur events weren't created by comments, because we need to check how many Pokémon you had.
+\bUnsere Events wurden nicht durch Kommentare erstellt, da wir überprüfen müssen, wie viele Pokémon du hattest.
+\rI've brought my own special backdrop!
+\rIch habe meine eigene besondere Kulisse mitgebracht!
+\rIf exactly 2 trainers notice you at the same time, they become a double battle.
+\rWenn dich genau 2 Trainer gleichzeitig bemerken, kommt es zu einem Doppelkampf.
+\rHere, though, 3 trainers noticed you at once, so I battled you by myself. Then the 2 remaining trainers noticing you at the same time became a double battle.
+\rHier wurden Sie jedoch von 3 Trainern gleichzeitig bemerkt, also habe ich alleine gegen Sie gekämpft. Dann kam es zu einem Doppelkampf, als die beiden verbleibenden Trainer Sie gleichzeitig bemerkten.
+\rI battled you first because my event's ID number (7) comes before the Hiker's and Fisherman's event ID numbers (8 and 9).
+\rIch habe zuerst gegen dich gekämpft, weil die ID-Nummer meines Events (7) vor den ID-Nummern des Wander- und Fischer-Events (8 und 9) steht.
+\rDo you want to team up with me?
+\rWillst du mit mir zusammenarbeiten?
+\bThis battle will go without a hitch!
+\bDieser Kampf wird reibungslos verlaufen!
+\bHow did you manage to face all three of us?
+\bWie hast du es geschafft, uns allen dreien entgegenzutreten?
+\bI'll get my tackle out for you!
+\bIch hole mein Tackle für dich raus!
+\bI don't understand why my Magikarp couldn't beat you.
+\bIch verstehe nicht, warum mein Karpador dich nicht besiegen konnte.
+\bHi \PN! I'm your Rival!
+\bHallo \PN! Ich bin dein Rivale!
+\bDo you want to name me, or leave me with my default name as defined in trainers.txt?
+\bMöchten Sie mir einen Namen geben oder meinen Standardnamen beibehalten, wie er in trainers.txt definiert ist?
+Rival's name?
+Name des Rivalen?
+\bSo my name is \v[12], huh? Okay then.
+\bMein Name ist also \v[12], oder? Alles klar.
+\bLet's get down to the battle!
+\bLasst uns mit der Schlacht beginnen!
+\bI'm going to leave now. Smell you later!
+\bIch werde jetzt gehen. Rieche dich später!
+\bHi! I like shorts! They're comfy and easy to wear!
+\bHallo! Ich mag Shorts! Sie sind bequem und leicht zu tragen!
+\bYou can't get a trainer event simpler than me!
+\bEiner als ich kann man ein Trainer-Event nicht gestalten!
+\rGet ready for a double battle!
+\rMach dich bereit für einen Doppelkampf!
+\rMake sure all double battle opponents have at least 2 Pokémon!
+\rStellen Sie sicher, dass alle Doppelkampfgegner mindestens 2 Pokémon haben!
+Yes
+Ja
+No
+Nein
+Rename
+Umbenennen
+Cancel
+Stornieren
+#-------------------------------
+[Map034]
+This is another boulder-down-hole puzzle.
+Dies ist ein weiteres Boulder-Down-Loch-Rätsel.
+It is identical to the regular kind, except the boulder downstairs is just a regular immovable event rather than a boulder itself.
+Es ist identisch mit der normalen Art, außer dass der Felsbrocken unten nur ein normales unbewegliches Ereignis und kein Felsbrocken selbst ist.
+On the right is an example of a cracked ice tile.  You can walk over it once, but step on it again and you'll fall through to another map.
+Rechts ist ein Beispiel einer gerissenen Eisplatte. Sie können einmal darüber gehen, aber wenn Sie erneut darauf treten, gelangen Sie auf eine andere Karte.
+Ice you slide around on has terrain tag 12.
+Eis, auf dem Sie herumrutschen, hat die Geländemarkierung 12.
+#-------------------------------
+[Map035]
+\bI stopped you as you walked past.
+\bIch habe dich angehalten, als du vorbeigegangen bist.
+\bHaving "Sight(3)" as my event's name, and the "Event Touch" trigger, tells me to activate whenever you enter any of the three tiles in front of me.
+\bWenn ich „Sight(3)“ als Namen für mein Ereignis und den Auslöser „Ereignisberührung“ habe, sage ich mir, dass ich es jedes Mal aktivieren soll, wenn du eine der drei Kacheln vor mir betrittst.
+\bpbExclaim makes me exclaim. pbNoticePlayer does the same thing, as well as make me approach you.
+\bpbExclaim bringt mich zum Ausrufen. pbNoticePlayer macht das Gleiche und bringt mich dazu, auf Sie zuzugehen.
+\bTrainers use these features by default, but other NPCs like me can use them too. Roadblock events in particular love to use them.
+\bTrainer nutzen diese Funktionen standardmäßig, aber auch andere NPCs wie ich können sie nutzen. Vor allem Roadblock-Veranstaltungen nutzen sie gerne.
+\bShall I turn you back like a real roadblock, or should I deactivate myself?
+\bSoll ich dich zurückweisen wie eine echte Straßensperre, oder soll ich mich selbst deaktivieren?
+\bCome back when Game Switch 5 is ON.
+\bKommen Sie zurück, wenn Game Switch 5 eingeschaltet ist.
+\bOkay. I'll fulfil my roadblock condition myself, by turning the Game Switch I depend on (5) to ON.
+\bOkay. Ich erfülle meine Bedingung für die Straßensperre selbst, indem ich den Spielschalter, auf den ich angewiesen bin (5), auf EIN stelle.
+\bBecause I was moved by pbNoticePlayer and then moved again by a Move Route, I need to update my current location in memory.
+\bDa ich von pbNoticePlayer und dann erneut von einer Move Route verschoben wurde, muss ich meinen aktuellen Standort im Speicher aktualisieren.
+\bThis matters if you save and reload the game on this map after I've moved. See my event for the command you need to use.
+\bDas ist wichtig, wenn Sie das Spiel auf dieser Karte speichern und neu laden, nachdem ich umgezogen bin. Den Befehl, den Sie verwenden müssen, finden Sie in meiner Veranstaltung.
+\bI'm keeping guard here as a trusted roadblock event.
+\bIch bewache hier als vertrauenswürdiges Straßensperrenereignis.
+\bRoadblock events don't normally set the conditions they wait for (Game Switch 5 in my case), but I did.
+\bRoadblock-Ereignisse legen normalerweise nicht die Bedingungen fest, auf die sie warten (in meinem Fall Game Switch 5), aber ich habe es getan.
+Roadblock
+Straßensperre
+Deactivate
+Deaktivieren
+#-------------------------------
+[Map036]
+\bBill: Hello! I'm \v[2].
+\bBill: Hallo! Ich bin \v[2].
+\bI invented the Pokémon Storage System.
+\bIch habe das Pokémon-Speichersystem erfunden.
+\bWhat do you want to know?
+\bWas möchtest du wissen?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAlle Aufbewahrungsbox-Hintergrundbilder müssen in der Klasse PokemonStorage aufgeführt sein, auf jeden Fall allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bSie entsprechen box_0.png, box_1.png usw. in der Reihenfolge ohne Lücken. Diese Bilder befinden sich im Ordner Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bSpeicherhintergründe sind in zwei Kategorien unterteilt: Basis- und Spezialhintergründe. Alle Basishintergründe werden vor den Spezialhintergründen aufgeführt.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bEinfache Hintergrundbilder sind immer verfügbar und Boxen verwenden diese Hintergrundbilder standardmäßig. Die Zahlen von 0 bis einschließlich 15 sind Basis-Hintergrundbilder.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpezielle Hintergrundbilder sind zunächst gesperrt und nicht verfügbar. Sie können sie mit pbUnlockWallpaper(id) entsperren, wobei id die Nummer des Hintergrundbilds ist.
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+Wallpapers
+Hintergrundbilder
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map037]
+\bEverything in here uses a temporary switch to decide what to do, rather than a Self Switch, because it all needs to reset each time you enter.
+\bAlles hier verwendet einen temporären Schalter, um zu entscheiden, was zu tun ist, und keinen Selbstschalter, da bei jedem Betreten alles zurückgesetzt werden muss.
+\bYou beat me! Go on to the Hall of Fame.
+\bDu hast mich geschlagen! Gehen Sie weiter zur Hall of Fame.
+#-------------------------------
+[Map046]
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bLeider können Sie den Radweg nicht ohne Fahrrad betreten.
+\bCycling Road is a great ride.
+\bRadfahren ist eine tolle Fahrt.
+#-------------------------------
+[Map047]
+\bI'm a basic trainer with a Shadow Pokémon.
+\bIch bin ein Basic-Trainer mit einem Schatten-Pokémon.
+\bDid you manage to snag my Shadow Pokémon?  Because you can't battle me again for another chance.
+\bHast du es geschafft, mein Schatten-Pokémon zu ergattern? Weil du nicht noch einmal gegen mich um eine weitere Chance kämpfen kannst.
+\rYou can battle me repeatedly, and have unlimited attempts to snag my Shadow Pokémon.
+\rDu kannst wiederholt gegen mich kämpfen und hast unbegrenzte Versuche, mein Schatten-Pokémon zu fangen.
+\rYou've managed to snag my Shadow Electabuzz.  I'm not going to do anything now.
+\rDu hast es geschafft, meinen Shadow Electabuzz zu ergattern. Ich werde jetzt nichts tun.
+\bI can tell you some things about Shadow Pokémon in Essentials. However, the wiki has far more information about them.
+\bIch kann dir in Essentials einiges über Schatten-Pokémon erzählen. Das Wiki enthält jedoch weitaus mehr Informationen darüber.
+\bWhat do you want to know?
+\bWas möchtest du wissen?
+\bShadow Pokémon are a special kind of Pokémon which appeared in Pokémon Colosseum and Pokémon XD.
+\bSchatten-Pokémon sind eine besondere Art von Pokémon, die in Pokémon Colosseum und Pokémon XD vorkamen.
+\bThey can be included in Essentials as well. See the wiki for information on how to do this.
+\bSie können auch in Essentials enthalten sein. Informationen dazu finden Sie im Wiki.
+\bTrainers with Shadow Pokémon are set up in exactly the same way as any other trainer.
+\bTrainer mit Schatten-Pokémon werden genauso eingerichtet wie jeder andere Trainer.
+\bAny Poké Ball can be defined as a Snag Ball in items.txt. If $player.has_snag_machine is TRUE, all types of Poké Ball will be Snag Balls automatically.
+\bJeder Pokéball kann in items.txt als Snag Ball definiert werden. Wenn $player.has_snag_machine TRUE ist, werden alle Arten von Pokébällen automatisch zu Snag Balls.
+\b$player.pokedex.owned_shadow is an array that keeps track of which Shadow Pokémon species have been caught.
+\b$player.pokedex.owned_shadow ist ein Array, das verfolgt, welche Arten von Schatten-Pokémon gefangen wurden.
+\bYou can purify Shadow Pokémon in two ways.
+\bDu kannst Schatten-Pokémon auf zwei Arten reinigen.
+\bThe first is by bringing them to the Relic Stone here, as in Pokémon Colosseum.
+\bDie erste besteht darin, sie hier zum Reliktstein zu bringen, wie in Pokémon Kolosseum.
+\bThe second is by placing them in the Purify Chamber, as in Pokémon XD. You can access it from the PC in Poké Centers.
+\bDie zweite Möglichkeit besteht darin, sie wie in Pokémon XD in die Reinigungskammer zu legen. Sie können vom PC aus in Poké-Zentren darauf zugreifen.
+\bI've now given you access to the Purify Chamber.
+\bIch habe dir jetzt Zugang zur Reinigungskammer gewährt.
+\bThe effects of Heart Gauge-lowering items are already in Essentials. You just need to add the items themselves via a PBS file.
+\bDie Wirkung von Gegenständen, die die Herzfrequenz senken, ist bereits in Essentials enthalten. Sie müssen lediglich die Elemente selbst über eine PBS-Datei hinzufügen.
+\bI can control the weather. Which weather would you like to see?
+\bIch kann das Wetter kontrollieren. Welches Wetter möchtest du sehen?
+\bThis weather can occur even at night, but doesn't negate the day/night shading. It's better if you don't use it.
+\bDieses Wetter kann auch nachts auftreten, macht die Tag-/Nachtbeschattung jedoch nicht zunichte. Es ist besser, wenn Sie es nicht verwenden.
+\bNote that the weather metadata for this map is set, even though its probability is 0. This prevents the weather from lingering when you leave this map.
+\bBeachten Sie, dass die Wettermetadaten für diese Karte festgelegt sind, auch wenn ihre Wahrscheinlichkeit 0 ist. Dadurch wird verhindert, dass das Wetter bestehen bleibt, wenn Sie diese Karte verlassen.
+\bHaiiiii-yaaaaaah!
+\bHaiiii-yaaaaaah!
+Nothing can pierce my armor!
+Nichts kann meine Rüstung durchdringen!
+Behold my dodging skills!
+Schauen Sie sich meine Ausweichfähigkeiten an!
+I'll deliver a perfect blow!
+Ich werde einen perfekten Schlag abliefern!
+Feel my power!
+Spüre meine Kraft!
+AAAAHHHH!
+AAAAHHHH!
+Face my secret technique!
+Stelle dich meiner geheimen Technik!
+This is my secret technique!
+Das ist meine geheime Technik!
+Evil Blade Strike!
+Böser Klingenschlag!
+\bYou won, good job.
+\bDu hast gewonnen, gute Arbeit.
+You lost, too bad.
+Du hast verloren, schade.
+\bHello. This is what I say if you talk to me during the day.
+\bHallo. Das sage ich, wenn du tagsüber mit mir sprichst.
+\bHalt! Who goes there?
+\bHalt! Wer geht dahin?
+\bThis is what I say if you talk to me at night.
+\bDas sage ich, wenn du nachts mit mir sprichst.
+\bI could battle you... but I won't.
+\bIch könnte gegen dich kämpfen... aber ich werde es nicht tun.
+Information
+Information
+Shadow Pokémon battles
+Schatten-Pokémon-Kämpfe
+Purifying Pokémon
+Reinigendes Pokémon
+Exit
+Ausfahrt
+None
+Keiner
+Rain
+Regen
+Heavy rain
+Starkregen
+Storm
+Sturm
+Snow
+Schnee
+Blizzard
+Schneesturm
+Sandstorm
+Sandsturm
+Sun
+Sonne
+Fog
+Nebel
+#-------------------------------
+[Map049]
+\bCan you push that boulder onto the switch?
+\bKannst du den Felsbrocken auf den Schalter schieben?
+\bOh! The boulder has been moved onto the switch!
+\bOh! Der Felsbrocken wurde auf den Schalter verschoben!
+\bWell done!
+\bGut gemacht!
+\bOh. The boulder is not on the switch.
+\bOh. Der Felsbrocken liegt nicht am Schalter.
+This ladder leads to a random dungeon.
+Diese Leiter führt zu einem zufälligen Dungeon.
+The levels of Pokémon within are based on the levels of Pokémon in the player's party.
+Die darin enthaltenen Pokémon-Stufen basieren auf den Pokémon-Stufen in der Gruppe des Spielers.
+This is because the dungeon map's metadata gives it the "ScaleWildEncounterLevels" flag.
+Dies liegt daran, dass die Metadaten der Dungeon-Karte ihr das Flag „ScaleWildEncounterLevels“ verleihen.
+The positions of the boulders are checked by a Parallel Process event.
+Die Positionen der Felsbrocken werden durch ein Parallelprozessereignis überprüft.
+The hole event must have its "Through" option set, to allow boulder events to be pushed onto it.
+Für das Lochereignis muss die Option „Durch“ festgelegt sein, damit Boulderereignisse darauf verschoben werden können.
+Which tile puzzle do you want to play?
+Welches Kachelrätsel möchtest du spielen?
+Puzzle solved!
+Rätsel gelöst!
+Gave up...
+Aufgegeben...
+Alph
+Alph
+Alph Rotator
+Alpha Rotator
+Mystic Square
+Mystischer Platz
+Tile Swap
+Fliesentausch
+Tile Swap Rotator
+Kacheltausch-Rotator
+Rubik's Square
+Rubiks Platz
+Star Rotator
+Sternrotator
+Cancel
+Stornieren
+#-------------------------------
+[Map050]
+When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
+Wenn Sie einen Felsbrocken in ein Loch schieben, achten Sie darauf, dass er nicht an der gleichen Stelle erscheint wie der Spieler, wenn er herunterfällt.
+\bHello! I'm the Ruin Maniac!
+\bHallo! Ich bin der Ruin Maniac!
+\bDo you want to dig for buried treasure?
+\bMöchten Sie nach vergrabenen Schätzen graben?
+\bGrand! Let's dig into this wall.
+\bGroßartig! Lasst uns in diese Wand graben.
+\bNo? Alright then.
+\bNein? Alles klar dann.
+\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
+\bWenn Sie dieses Mining-Minispiel verwenden, wird empfohlen, die Häufigkeit, mit der der Spieler es spielen kann, zu begrenzen, um zu verhindern, dass er viele Gegenstände kostenlos erhält.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map053]
+\bBill: Hello! I'm \v[2].
+\bBill: Hallo! Ich bin \v[2].
+\bI invented the Pokémon Storage System.
+\bIch habe das Pokémon-Speichersystem erfunden.
+\bWhat do you want to know?
+\bWas möchtest du wissen?
+\bAll storage box wallpapers need to be listed in class PokemonStorage, in def allWallpapers.
+\bAlle Aufbewahrungsbox-Hintergrundbilder müssen in der Klasse PokemonStorage aufgeführt sein, auf jeden Fall allWallpapers.
+\bThey correspond to box_0.png, box_1.png, etc. in order without gaps. These images are in the folder Graphics/Pictures/Storage.
+\bSie entsprechen box_0.png, box_1.png usw. in der Reihenfolge ohne Lücken. Diese Bilder befinden sich im Ordner Graphics/Pictures/Storage.
+\bStorage wallpapers are split into two categories: basic and special.All basic wallpapers are listed before the special wallpapers.
+\bSpeicherhintergründe sind in zwei Kategorien unterteilt: Basis- und Spezialhintergründe. Alle Basishintergründe werden vor den Spezialhintergründen aufgeführt.
+\bBasic wallpapers are always accessible, and boxes use these wallpapers by default. Numbers 0 to 15 inclusive are basic wallpapers.
+\bEinfache Hintergrundbilder sind immer verfügbar und Boxen verwenden diese Hintergrundbilder standardmäßig. Die Zahlen von 0 bis einschließlich 15 sind Basis-Hintergrundbilder.
+\bSpecial wallpapers start off locked and unavailable.  You can unlock them with pbUnlockWallpaper(id), where id is the wallpaper's number.
+\bSpezielle Hintergrundbilder sind zunächst gesperrt und nicht verfügbar. Sie können sie mit pbUnlockWallpaper(id) entsperren, wobei id die Nummer des Hintergrundbilds ist.
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+Wallpapers
+Hintergrundbilder
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map054]
+There is a questionnaire.\nWould you like to fill it out?
+Es gibt einen Fragebogen.\nMöchten Sie ihn ausfüllen?
+\PN filled in the questionnaire.
+\PN hat den Fragebogen ausgefüllt.
+\bOh, hello!\nYou filled in the questionnaire?
+\bOh, hallo!\nDu hast den Fragebogen ausgefüllt?
+\bThat means you must know about the Mystery Gift.
+\bDas bedeutet, dass Sie über das Geheimnisgeschenk Bescheid wissen müssen.
+\bFrom now on, you should be receiving Mystery Gifts!
+\bVon jetzt an sollten Sie Mystery-Geschenke erhalten!
+\w[signskin]Once you save your game, you can access the Mystery Gift.
+\w[signskin]Sobald Sie Ihr Spiel gespeichert haben, können Sie auf das Mystery Gift zugreifen.
+\bHello. You must be \PN.
+\bHallo. Sie müssen \PN sein.
+\bI've received a gift for you.\nHere you go!
+\bIch habe ein Geschenk für dich erhalten.\nHier bitte!
+\bI haven't received any other gifts for you.
+\bIch habe keine weiteren Geschenke für dich erhalten.
+\bWe look forward to your next visit.
+\bWir freuen uns auf Ihren nächsten Besuch.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map055]
+Check results for which challenge?
+Ergebnisse für welche Herausforderung prüfen?
+\PN's Battle Tower Level 50 Single Battle results:
+\PN's Battle Tower Level 50 Einzelkampfergebnisse:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Letzte Siegesserie: \v[1]\nRekord-Siegesserie: \v[2]
+\PN's Battle Tower Open Level Single Battle results:
+\PN's Battle Tower Open Level Einzelkampfergebnisse:
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+\PN's Battle Tower Level 50 Double Battle results:
+\PN's Battle Tower Level 50 Double Battle Ergebnisse:
+\PN's Battle Tower Open Level Double Battle results:
+\PN's Battle Tower Open Level Double Battle Ergebnisse:
+There is no battle recorded.
+Es ist keine Schlacht aufgezeichnet.
+\rWelcome to the Battle Tower.
+\rWillkommen im Battle Tower.
+\rWould you like to participate in a single battle?
+\rMöchten Sie an einer einzelnen Schlacht teilnehmen?
+\rDo you want to take the Level 50 challenge, or the Open Level challenge?
+\rMöchten Sie die Level-50-Herausforderung oder die Open-Level-Herausforderung annehmen?
+\rSorry, you can't participate. You need three different Pokémon to enter.
+\rLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon.
+\rThey must be of a different species and hold different items.
+\rSie müssen von einer anderen Art sein und unterschiedliche Gegenstände enthalten.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rBestimmte exotische Arten sowie Eier sind nicht teilnahmeberechtigt.
+\rPlease choose the three Pokémon that will enter.
+\rBitte wählen Sie die drei Pokémon aus, die teilnehmen möchten.
+\rPlease come this way.
+\rBitte kommen Sie hier entlang.
+\rCome back another time.
+\rKommen Sie ein anderes Mal wieder.
+\rCongratulations for winning.
+\rHerzlichen Glückwunsch zum Gewinn.
+\rPlease accept these Battle Point(s).
+\rBitte akzeptieren Sie diese Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN hat \v[1] Battle Point(s) erhalten.
+\rWould you like to record your last battle?
+\rMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Your results will be recorded.\wtnp[15]
+Ihre Ergebnisse werden aufgezeichnet.\wtnp[15]
+\rThanks for playing.
+\rDanke fürs Spielen.
+\rWe've been waiting for you. Please come this way.
+\rWir haben auf dich gewartet. Bitte kommen Sie hier entlang.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rEntschuldigung, aber Sie haben nicht gespeichert, bevor Sie Ihre Herausforderung das letzte Mal abgeschlossen haben.
+\rSorry, but your challenge has been canceled.
+\rTut mir leid, aber Ihre Herausforderung wurde abgesagt.
+\rWould you like to participate in a double battle?
+\rMöchten Sie an einem Doppelkampf teilnehmen?
+\rPlease choose the four Pokémon that will enter.
+\rBitte wählen Sie die vier Pokémon aus, die teilnehmen möchten.
+Level 50
+Stufe 50
+Open Level
+Offene Ebene
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+Play recorded battle
+Spielen Sie den aufgezeichneten Kampf ab
+Exit
+Ausfahrt
+#-------------------------------
+[Map056]
+\v[1]
+\v[1]
+\rThanks for playing. Let me heal your party.
+\rDanke fürs Spielen. Lass mich deine Party heilen.
+\rBattle number \v[1] is next. Are you ready?
+\rGefecht Nummer \v[1] folgt als Nächstes. Sind Sie bereit?
+\rWould you like to save the game and continue later?
+\rMöchten Sie das Spiel speichern und später fortfahren?
+Your game has been saved.
+Ihr Spiel wurde gespeichert.
+\rAre you sure you want to quit your challenge?
+\rMöchten Sie Ihre Herausforderung wirklich beenden?
+\rWould you like to record your last battle?
+\rMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Go on
+Mach weiter
+Rest
+Ausruhen
+Retire
+Ausscheiden
+Record
+Aufzeichnen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map057]
+Check results for which singles challenge?
+Überprüfen Sie die Ergebnisse für welche Single-Herausforderung?
+\PN's Battle Tower Pika Cup Single Battle results:
+\PN's Battle Tower Pika Cup-Einzelkampfergebnisse:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Letzte Siegesserie: \v[1]\nRekord-Siegesserie: \v[2]
+\PN's Battle Tower Fancy Cup Single Battle results:
+\PN's Battle Tower Fancy Cup-Einzelkampfergebnisse:
+\PN's Battle Tower Poké Cup Single Battle results:
+\PN's Battle Tower Poké Cup-Einzelkampfergebnisse:
+\PN's Battle Tower Little Cup Single Battle results:
+\PN's Battle Tower Little Cup Einzelkampf-Ergebnisse:
+\rHello, and welcome to the Pokémon Center.
+\rHallo und willkommen im Pokémon Center.
+\rWe restore your tired Pokémon to full health.
+\rWir stellen die volle Gesundheit Ihres müden Pokémon wieder her.
+\rWould you like to rest your Pokémon?
+\rMöchten Sie Ihrem Pokémon eine Pause gönnen?
+\rOK, I'll take your Pokémon for a few seconds.
+\rOK, ich nehme dein Pokémon für ein paar Sekunden.
+\rYour Pokémon may be infected by Pokérus.
+\rDein Pokémon ist möglicherweise mit Pokérus infiziert.
+\rLittle is known about the Pokérus except that they are microscopic life-forms that attach to Pokémon.
+\rÜber die Pokérus ist wenig bekannt, außer dass es sich um mikroskopisch kleine Lebensformen handelt, die sich an Pokémon heften.
+\rWhile infected, Pokémon are said to grow exceptionally well.
+\rWährend einer Infektion sollen Pokémon außergewöhnlich gut wachsen.
+\rThank you for waiting.
+\rVielen Dank fürs Warten.
+\rWe've restored your Pokémon to full health.
+\rWir haben die volle Gesundheit deines Pokémon wiederhergestellt.
+\rWe hope to see you again!
+\rWir hoffen, Sie wiederzusehen!
+\rFirst, you should restore your Pokémon to full health.
+\rZuerst solltest du die volle Gesundheit deines Pokémon wiederherstellen.
+\rYour Pokémon have been healed to perfect health.
+\rDeine Pokémon wurden vollständig geheilt.
+\rWe hope you excel!
+\rWir hoffen, dass Sie hervorragende Leistungen erbringen!
+Check results for which doubles challenge?
+Überprüfen Sie die Ergebnisse für welche Doppelherausforderung?
+\PN's Battle Tower Pika Cup Double Battle results:
+\PN's Battle Tower Pika Cup Double Battle Ergebnisse:
+\PN's Battle Tower Fancy Cup Double Battle results:
+\PN's Battle Tower Fancy Cup Double Battle Ergebnisse:
+\PN's Battle Tower Poké Cup Double Battle results:
+\PN's Battle Tower Poké Cup Double Battle Ergebnisse:
+\PN's Battle Tower Little Cup Double Battle results:
+\PN's Battle Tower Little Cup Double Battle Ergebnisse:
+Which heading would you like to read?
+Welche Überschrift möchten Sie lesen?
+This facility lets you conduct battles similar to Stadium championships.
+Mit dieser Funktion können Sie Schlachten durchführen, die Stadionmeisterschaften ähneln.
+This facility holds battles for Pika Cup, Fancy Cup, Poké Cup, and Little Cup. Each cup has its own rules and restrictions.
+In dieser Anlage finden Kämpfe um den Pika Cup, den Fancy Cup, den Poké Cup und den Little Cup statt. Jeder Cup hat seine eigenen Regeln und Einschränkungen.
+The Pika Cup is open to Pokémon level 15 to 20.
+Der Pika Cup steht Pokémon der Stufen 15 bis 20 offen.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 50.
+Wählen Sie drei Pokémon zur Teilnahme aus.\n Die Gesamtstufe aller drei darf jedoch nicht höher als 50 sein.
+Also, certain exotic kinds of Pokémon may not enter.
+Außerdem dürfen bestimmte exotische Pokémon-Arten möglicherweise nicht teilnehmen.
+The Fancy Cup is open to baby Pokémon level 25 to 30.
+Der Fancy Cup steht Baby-Pokémon der Stufen 25 bis 30 offen.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 80.
+Wählen Sie drei Pokémon zur Teilnahme aus.\n Die Gesamtstufe aller drei darf jedoch nicht höher als 80 sein.
+Also, very huge or very tall Pokémon may not enter the Fancy Cup.
+Außerdem dürfen sehr große oder sehr große Pokémon nicht am Fancy Cup teilnehmen.
+The height limit is 2 meters, and the weight limit is 20 kilograms for the Fancy Cup.
+Die Höhenbeschränkung liegt bei 2 Metern und die Gewichtsbeschränkung für den Fancy Cup bei 20 Kilogramm.
+The Poké Cup is open to Pokémon level 50 to 55.
+Der Poké Cup steht Pokémon der Stufen 50 bis 55 offen.
+Choose three Pokémon to enter.\n However, the total level of all three can't be higher than 155.
+Wählen Sie drei Pokémon zur Teilnahme aus.\n Die Gesamtstufe aller drei darf jedoch nicht höher als 155 sein.
+The Little Cup is open to baby Pokémon at level 5 that are capable of evolving.
+Der kleine Pokal steht Baby-Pokémon der Stufe 5 offen, die sich weiterentwickeln können.
+Choose three Pokémon to enter a single battle, or four for a double battle.
+Wählen Sie drei Pokémon aus, um an einem Einzelkampf teilzunehmen, oder vier für einen Doppelkampf.
+Also, in the Little Cup, moves that deal a set amount of damage, like Dragon Rage and SonicBoom, will always miss.
+Außerdem werden im Little Cup Bewegungen, die eine festgelegte Schadensmenge verursachen, wie Dragon Rage und SonicBoom, immer verfehlen.
+In Stadium Cups, there are several rules to keep in mind.
+Bei Stadionpokalen sind mehrere Regeln zu beachten.
+First, two Pokémon in the same team can't be both asleep or both frozen at the same time.
+Erstens können zwei Pokémon im selben Team nicht gleichzeitig schlafen oder beide eingefroren sein.
+Also, you can't choose two of the same kind of Pokémon, or two Pokémon holding the same item.
+Außerdem können Sie nicht zwei Pokémon derselben Art oder zwei Pokémon mit demselben Gegenstand auswählen.
+Finally, if a Pokémon uses Selfdestruct or Explosion to make all remaining Pokémon faint at the same time, that Pokémon's trainer loses.
+Wenn schließlich ein Pokémon Selbstzerstörung oder Explosion einsetzt, um alle verbleibenden Pokémon gleichzeitig ohnmächtig zu machen, verliert der Trainer dieses Pokémon.
+There is no battle recorded.
+Es ist keine Schlacht aufgezeichnet.
+\rWelcome to the Battle Tower's Stadium Cup Division.
+\rWillkommen in der Stadium Cup Division des Battle Tower.
+\rWould you like to participate in a single battle?
+\rMöchten Sie an einer einzelnen Schlacht teilnehmen?
+\rWhich Stadium Cup would you like to enter?
+\rAn welchem Stadium Cup würden Sie gerne teilnehmen?
+\rSorry, you can't participate. You need three different Pokémon level 15 to 20 to enter.
+\rLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon der Stufen 15 bis 20.
+\rThey must be of a different species and hold different items.
+\rSie müssen von einer anderen Art sein und unterschiedliche Gegenstände enthalten.
+\rCertain exotic species, as well as eggs, are ineligible.
+\rBestimmte exotische Arten sowie Eier sind nicht teilnahmeberechtigt.
+\rSorry, you can't participate. You need three different Pokémon level 25 to 30 to enter.
+\rLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon der Stufen 25 bis 30.
+\rThey also must be baby Pokémon, and can't be too tall or too heavy.
+\rSie müssen außerdem Baby-Pokémon sein und dürfen nicht zu groß oder zu schwer sein.
+\rEggs are ineligible.
+\rEier sind nicht zugelassen.
+\rSorry, you can't participate. You need three different Pokémon level 50 to 55 to enter.
+\rLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon der Stufen 50 bis 55.
+\rSorry, you can't participate. You need three different baby Pokémon at level 5 to enter.
+\rLeider können Sie nicht teilnehmen. Um teilnehmen zu können, benötigst du drei verschiedene Baby-Pokémon auf Level 5.
+\rThey also must be baby Pokémon that are capable of evolving.
+\rEs müssen außerdem Baby-Pokémon sein, die sich weiterentwickeln können.
+\rPlease choose the three Pokémon that will enter.
+\rBitte wählen Sie die drei Pokémon aus, die teilnehmen möchten.
+\rPlease come this way.
+\rBitte kommen Sie hier entlang.
+\rCome back another time.
+\rKommen Sie ein anderes Mal wieder.
+\rCongratulations for winning.
+\rHerzlichen Glückwunsch zum Gewinn.
+\rPlease accept these Battle Point(s).
+\rBitte akzeptieren Sie diese Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN hat \v[1] Battle Point(s) erhalten.
+\rWould you like to record your last battle?
+\rMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Your results will be recorded.\wtnp[15]
+Ihre Ergebnisse werden aufgezeichnet.\wtnp[15]
+\rThanks for playing.
+\rDanke fürs Spielen.
+\rWe've been waiting for you. Please come this way.
+\rWir haben auf dich gewartet. Bitte kommen Sie hier entlang.
+\rExcuse me, but you didn't save before finishing your challenge last time.
+\rEntschuldigung, aber Sie haben nicht gespeichert, bevor Sie Ihre Herausforderung das letzte Mal abgeschlossen haben.
+\rSorry, but your challenge has been canceled.
+\rTut mir leid, aber Ihre Herausforderung wurde abgesagt.
+\rWould you like to participate in a double battle?
+\rMöchten Sie an einem Doppelkampf teilnehmen?
+\rPlease choose the Pokémon that will enter.
+\rBitte wählen Sie das Pokémon aus, das teilnehmen soll.
+Pika Cup
+Pika-Cup
+Fancy Cup
+Ausgefallener Pokal
+Poké Cup
+Poké-Cup
+Little Cup
+Kleine Tasse
+Cancel
+Stornieren
+Yes
+Ja
+No
+Nein
+Stadium Cup rules
+Stadion-Cup-Regeln
+Play recorded battle
+Spielen Sie den aufgezeichneten Kampf ab
+Stadium Cups
+Stadionpokale
+Battle rules
+Kampfregeln
+Exit
+Ausfahrt
+#-------------------------------
+[Map058]
+Check results for which challenge?
+Ergebnisse für welche Herausforderung prüfen?
+\PN's Battle Palace Level 50 Single Battle results:
+\PN's Battle Palace Level 50 Einzelkampfergebnisse:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Letzte Siegesserie: \v[1]\nRekord-Siegesserie: \v[2]
+\PN's Battle Palace Open Level Single Battle results:
+\PN's Battle Palace Open Level Einzelkampfergebnisse:
+\PN's Battle Palace Level 50 Double Battle results:
+\PN's Battle Palace Level 50 Doppelkampfergebnisse:
+\PN's Battle Palace Open Level Double Battle results:
+\PN's Battle Palace Open Level Double Battle Ergebnisse:
+Which heading do you want to read?
+Welche Überschrift möchten Sie lesen?
+In the Battle Palace, Pokémon are required to think by themselves.
+Im Kampfpalast müssen Pokémon selbstständig denken.
+Unlike in the wild, Pokémon that live with people behave differently depending on their nature.
+Anders als in der Wildnis verhalten sich Pokémon, die mit Menschen zusammenleben, je nach Natur unterschiedlich.
+Depending on its nature, a Pokémon may prefer to attack no matter what.
+Abhängig von seiner Natur kann es sein, dass ein Pokémon auf jeden Fall lieber angreift.
+Another Pokémon may prefer to protect itself from harm.
+Ein anderes Pokémon möchte sich möglicherweise lieber vor Schaden schützen.
+Yet another may enjoy vexing or confounding its foes.
+Wieder ein anderer mag es genießen, seine Feinde zu ärgern oder zu verwirren.
+A Pokémon's nature determines which moves it is good at using, and which moves it has trouble using.
+Die Natur eines Pokémon bestimmt, welche Attacken es gut ausführen kann und welche Attacken ihm Schwierigkeiten bereiten.
+There are offensive moves that deal direct damage on the foe.
+Es gibt Angriffsbewegungen, die dem Gegner direkten Schaden zufügen.
+There are defensive moves that are used to prepare for enemy attacks or used to heal HP and so on.
+Es gibt Verteidigungsbewegungen, die dazu dienen, sich auf feindliche Angriffe vorzubereiten oder HP zu heilen usw.
+And there are other somewhat-odd moves that may enfeeble the foe with status problems including poison and paralysis.
+Und es gibt andere etwas seltsame Bewegungen, die den Gegner mit Statusproblemen wie Gift und Lähmung schwächen können.
+Pokémon will consider using moves in these three categories.
+Pokémon werden die Verwendung von Attacken in diesen drei Kategorien in Betracht ziehen.
+When not taking commands from its Trainer, a Pokémon may be unable to effectively use certain kinds of moves.
+Wenn ein Pokémon keine Befehle von seinem Trainer entgegennimmt, kann es sein, dass es bestimmte Arten von Bewegungen nicht effektiv ausführen kann.
+A Pokémon is not good at using any move that it dislikes.
+Ein Pokémon ist nicht gut darin, Bewegungen auszuführen, die ihm nicht gefallen.
+If a Pokémon only knows moves that don't conform to its nature, it will often be unable to live up to its potential.
+Wenn ein Pokémon nur Bewegungen kennt, die nicht seiner Natur entsprechen, kann es sein Potenzial oft nicht ausschöpfen.
+Depending on its nature, a Pokémon may start using moves that don't match its nature when it is in trouble.
+Abhängig von seiner Natur kann ein Pokémon anfangen, Bewegungen auszuführen, die nicht zu seiner Natur passen, wenn es in Schwierigkeiten ist.
+If a Pokémon begins behaving oddly in a pinch, watch it carefully.
+Wenn sich ein Pokémon im Notfall seltsam verhält, sollten Sie es sorgfältig beobachten.
+There is no battle recorded.
+Es ist keine Schlacht aufgezeichnet.
+\bWelcome to the Battle Palace.
+\bWillkommen im Battle Palace.
+\bWould you like to participate in a single battle?
+\bMöchten Sie an einer einzelnen Schlacht teilnehmen?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bMöchten Sie die Level-50-Herausforderung oder die Open-Level-Herausforderung annehmen?
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon.
+\bThey must be of a different species and hold different items.
+\bSie müssen von einer anderen Art sein und unterschiedliche Gegenstände enthalten.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bBestimmte exotische Arten sowie Eier sind nicht zugelassen.
+\bPlease choose the three Pokémon that will enter.
+\bBitte wählen Sie die drei Pokémon aus, die teilnehmen möchten.
+\bPlease come this way.
+\bBitte kommen Sie hier entlang.
+\bCome back another time.
+\bKomm ein anderes Mal wieder.
+\bCongratulations for winning.
+\bHerzlichen Glückwunsch zum Gewinn.
+\bPlease accept these Battle Point(s).
+\bBitte akzeptieren Sie diese Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN hat \v[1] Battle Point(s) erhalten.
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Your results will be recorded.\wtnp[15]
+Ihre Ergebnisse werden aufgezeichnet.\wtnp[15]
+\bThanks for playing.
+\bDanke fürs Spielen.
+\bWe've been waiting for you. Please come this way.
+\bWir haben auf dich gewartet. Bitte kommen Sie hier entlang.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bEntschuldigung, aber Sie haben nicht gespeichert, bevor Sie Ihre Herausforderung das letzte Mal abgeschlossen haben.
+\bSorry, but your challenge has been canceled.
+\bTut mir leid, aber Ihre Herausforderung wurde abgesagt.
+\bWould you like to participate in a double battle?
+\bMöchten Sie an einem Doppelkampf teilnehmen?
+\bPlease choose the four Pokémon that will enter.
+\bBitte wählen Sie die vier Pokémon aus, die teilnehmen möchten.
+Level 50
+Stufe 50
+Open Level
+Offene Ebene
+Cancel
+Stornieren
+Battle Palace rules
+Battle Palace-Regeln
+Play recorded battle
+Spielen Sie den aufgezeichneten Kampf ab
+Battle basics
+Kampfgrundlagen
+Pokémon nature
+Pokémon-Natur
+Pokémon moves
+Pokémon bewegt sich
+Underpowered
+Untermotorisiert
+When in danger
+Bei Gefahr
+Exit
+Ausfahrt
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map059]
+\v[1]
+\v[1]
+\bThanks for playing. Let me heal your party.
+\bDanke fürs Spielen. Lass mich deine Party heilen.
+\bBattle number \v[1] is next. Are you ready?
+\bGefecht Nummer \v[1] folgt als Nächstes. Sind Sie bereit?
+\bWould you like to save the game and continue later?
+\bMöchten Sie das Spiel speichern und später fortfahren?
+Your game has been saved.
+Ihr Spiel wurde gespeichert.
+\bAre you sure you want to quit your challenge?
+\bMöchten Sie Ihre Herausforderung wirklich beenden?
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Go on
+Mach weiter
+Rest
+Ausruhen
+Retire
+Ausscheiden
+Record
+Aufzeichnen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map060]
+There is no battle recorded.
+Es ist keine Schlacht aufgezeichnet.
+\bWelcome to the Battle Arena.
+\bWillkommen in der Kampfarena.
+\bWould you like to participate in a battle?
+\bMöchten Sie an einer Schlacht teilnehmen?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bMöchten Sie die Level-50-Herausforderung oder die Open-Level-Herausforderung annehmen?
+\bSorry, you can't participate. You need three different Pokémon to enter.
+\bLeider können Sie nicht teilnehmen. Zur Teilnahme benötigst du drei verschiedene Pokémon.
+\bThey must be of a different species and hold different items.
+\bSie müssen von einer anderen Art sein und unterschiedliche Gegenstände enthalten.
+\bCertain exotic species, as well as eggs, are ineligible.
+\bBestimmte exotische Arten sowie Eier sind nicht zugelassen.
+\bPlease choose the three Pokémon that will enter.
+\bBitte wählen Sie die drei Pokémon aus, die teilnehmen möchten.
+\bPlease come this way.
+\bBitte kommen Sie hier entlang.
+\bCome back another time.
+\bKomm ein anderes Mal wieder.
+\bCongratulations for winning.
+\bHerzlichen Glückwunsch zum Gewinn.
+\bPlease accept these Battle Point(s).
+\bBitte akzeptieren Sie diese Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN hat \v[1] Battle Point(s) erhalten.
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Your results will be recorded.\wtnp[15]
+Ihre Ergebnisse werden aufgezeichnet.\wtnp[15]
+\bThanks for playing.
+\bDanke fürs Spielen.
+\bWe've been waiting for you. Please come this way.
+\bWir haben auf dich gewartet. Bitte kommen Sie hier entlang.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bEntschuldigung, aber Sie haben nicht gespeichert, bevor Sie Ihre Herausforderung das letzte Mal abgeschlossen haben.
+\bSorry, but your challenge has been canceled.
+\bTut mir leid, aber Ihre Herausforderung wurde abgesagt.
+Check results for which challenge?
+Ergebnisse für welche Herausforderung prüfen?
+\PN's Battle Arena Level 50 results:
+\PN's Battle Arena Level 50-Ergebnisse:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Letzte Siegesserie: \v[1]\nRekord-Siegesserie: \v[2]
+\PN's Battle Arena Open Level results:
+\PN's Battle Arena Open Level-Ergebnisse:
+Play recorded battle
+Spielen Sie den aufgezeichneten Kampf ab
+Exit
+Ausfahrt
+Yes
+Ja
+No
+Nein
+Level 50
+Stufe 50
+Open Level
+Offene Ebene
+Cancel
+Stornieren
+#-------------------------------
+[Map061]
+\v[1]
+\v[1]
+\bThanks for playing.  Let me heal your party.
+\bDanke fürs Spielen. Lass mich deine Party heilen.
+\bBattle number \v[1] is next. Are you ready?
+\bGefecht Nummer \v[1] folgt als Nächstes. Sind Sie bereit?
+\bWould you like to save the game and continue later?
+\bMöchten Sie das Spiel speichern und später fortfahren?
+Your game has been saved.
+Ihr Spiel wurde gespeichert.
+\bAre you sure you want to quit your challenge?
+\bMöchten Sie Ihre Herausforderung wirklich beenden?
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Go on
+Mach weiter
+Rest
+Ausruhen
+Retire
+Ausscheiden
+Record
+Aufzeichnen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map062]
+\bWelcome to the Battle Factory.
+\bWillkommen in der Battle Factory.
+\bWould you like to participate in a double battle?
+\bMöchten Sie an einem Doppelkampf teilnehmen?
+\bDo you want to take the Level 50 challenge, or the Open Level challenge?
+\bMöchten Sie die Level-50-Herausforderung oder die Open-Level-Herausforderung annehmen?
+\bPlease come this way.
+\bBitte kommen Sie hier entlang.
+\bCome back another time.
+\bKomm ein anderes Mal wieder.
+\bCongratulations for winning.
+\bHerzlichen Glückwunsch zum Gewinn.
+\bI will take your rental Pokémon back and return your own Pokémon.
+\bIch nehme deine gemieteten Pokémon zurück und gebe deine eigenen Pokémon zurück.
+\bPlease accept these Battle Point(s).
+\bBitte akzeptieren Sie diese Battle Point(s).
+\PN obtained \v[1] Battle Point(s).
+\PN hat \v[1] Battle Point(s) erhalten.
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+\bYour results will be recorded.\wtnp[15]
+\bIhre Ergebnisse werden aufgezeichnet.\wtnp[15]
+\bThanks for playing.
+\bDanke fürs Spielen.
+\bWe've been waiting for you. Please come this way.
+\bWir haben auf dich gewartet. Bitte kommen Sie hier entlang.
+\bExcuse me, but you didn't save before finishing your challenge last time.
+\bEntschuldigung, aber Sie haben nicht gespeichert, bevor Sie Ihre Herausforderung das letzte Mal abgeschlossen haben.
+\bSorry, but your challenge has been canceled.
+\bTut mir leid, aber Ihre Herausforderung wurde abgesagt.
+Check results for which challenge?
+Ergebnisse für welche Herausforderung prüfen?
+\PN's Battle Factory Level 50 Single Battle results:
+\PN's Battle Factory Level 50 Einzelkampfergebnisse:
+Last win streak: \v[1]\nRecord win streak: \v[2]
+Letzte Siegesserie: \v[1]\nRekord-Siegesserie: \v[2]
+\PN's Battle Factory Open Level Single Battle results:
+\PN's Battle Factory Open-Level-Einzelkampfergebnisse:
+\PN's Battle Factory Level 50 Double Battle results:
+\PN's Battle Factory Level 50 Double Battle Ergebnisse:
+\PN's Battle Factory Open Level Double Battle results:
+\PN's Battle Factory Open Level Double Battle Ergebnisse:
+Which heading do you want to read?
+Welche Überschrift möchten Sie lesen?
+In the Battle Factory, you fight using Pokémon provided for you. You must use three Pokémon out of a choice of six.
+In der Battle Factory kämpfst du mit Pokémon, die dir zur Verfügung gestellt werden. Sie müssen drei von sechs Pokémon verwenden.
+Pokémon in later rounds will be stronger than in earlier rounds, both yours and your opponents'.
+Pokémon werden in späteren Runden stärker sein als in früheren Runden, sowohl deine als auch die deiner Gegner.
+When you defeat a Trainer, you may swap one of your Pokémon for one of theirs.
+Wenn du einen Trainer besiegst, kannst du eines deiner Pokémon gegen eines seiner Trainer tauschen.
+You can't check the details of the Trainer's Pokémon before you choose one to gain in a swap. You will have to remember what it was like from the battle.
+Sie können die Details des Pokémon des Trainers nicht überprüfen, bevor Sie eines auswählen, das Sie durch einen Tausch gewinnen möchten. Sie werden sich daran erinnern müssen, wie es aus der Schlacht war.
+Your team will remain in the same order even after a swap. For example, if you swap away your second Pokémon, the new Pokémon will now be second.
+Ihr Team bleibt auch nach einem Tausch in der gleichen Reihenfolge. Wenn du beispielsweise dein zweites Pokémon austauschst, ist das neue Pokémon nun das zweite.
+There is no battle recorded.
+Es ist keine Schlacht aufgezeichnet.
+\bWould you like to participate in a single battle?
+\bMöchten Sie an einer einzelnen Schlacht teilnehmen?
+Yes
+Ja
+No
+Nein
+Level 50
+Stufe 50
+Open Level
+Offene Ebene
+Cancel
+Stornieren
+Battle Factory rules
+Battle Factory-Regeln
+Play recorded battle
+Spielen Sie den aufgezeichneten Kampf ab
+Basic Rules
+Grundregeln
+Swapping
+Tauschen
+Exit
+Ausfahrt
+#-------------------------------
+[Map063]
+\bI'll take your party for safekeeping.
+\bIch übernehme deine Gruppe zur sicheren Aufbewahrung.
+\bThen you may choose from our selection of Pokémon.
+\bDann können Sie aus unserer Auswahl an Pokémon wählen.
+\bCome with me.
+\bKomm mit mir.
+\bBattle number \v[1] is next. Are you ready?
+\bGefecht Nummer \v[1] folgt als Nächstes. Sind Sie bereit?
+\bWould you like to swap a Pokémon first?
+\bMöchtest du zuerst ein Pokémon tauschen?
+\bOK, the Pokémon swap is complete.
+\bOK, der Pokémon-Tausch ist abgeschlossen.
+\bWould you like to save the game and continue later?
+\bMöchten Sie das Spiel speichern und später fortfahren?
+Your game has been saved.
+Ihr Spiel wurde gespeichert.
+\bAre you sure you want to quit your challenge?
+\bMöchten Sie Ihre Herausforderung wirklich beenden?
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Go on
+Mach weiter
+Rest
+Ausruhen
+Retire
+Ausscheiden
+Record
+Aufzeichnen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map064]
+\v[1]
+\v[1]
+#-------------------------------
+[Map065]
+\bThanks for competing.\nLet me heal your party.
+\bVielen Dank für deine Teilnahme.\nLass mich deine Gruppe heilen.
+\bBattle number \v[1] is next. Are you ready?
+\bGefecht Nummer \v[1] folgt als Nächstes. Sind Sie bereit?
+\bWould you like to swap a Pokémon first?
+\bMöchtest du zuerst ein Pokémon tauschen?
+\bOK, the Pokémon swap is complete.
+\bOK, der Pokémon-Tausch ist abgeschlossen.
+\bCome with me.
+\bKomm mit mir.
+\bWould you like to save the game and continue later?
+\bMöchten Sie das Spiel speichern und später fortfahren?
+Your game has been saved.
+Ihr Spiel wurde gespeichert.
+\bAre you sure you want to quit your challenge?
+\bMöchten Sie Ihre Herausforderung wirklich beenden?
+\bWould you like to record your last battle?
+\bMöchten Sie Ihren letzten Kampf aufzeichnen?
+\se[Pkmn exp full]The battle was recorded.
+\se[Pkmn exp full]Der Kampf wurde aufgezeichnet.
+Go on
+Mach weiter
+Rest
+Ausruhen
+Retire
+Ausscheiden
+Record
+Aufzeichnen
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map067]
+\bWelcome to the Safari Zone!
+\bWillkommen in der Safari-Zone!
+\G\bFor just $500, you can play the Safari Game.
+\G\bFür nur 500 $ können Sie das Safari-Spiel spielen.
+\G\bYou can roam the wide-open Safari Zone and catch whatever you like.
+\G\bSie können durch die weitläufige Safari-Zone streifen und fangen, was Sie möchten.
+\G\bWould you like to play?
+\G\bMöchten Sie mitspielen?
+\G\bSorry, your PC boxes are full.
+\G\bLeider sind Ihre PC-Boxen voll.
+\G\bOops!\nNot enough money!
+\G\bUps!\nNicht genug Geld!
+\G\bCome again.
+\G\bKomm wieder.
+\G\bThat'll be $500, please!\1
+\G\bDas sind bitte 500 $!\1
+\G\bWe only use a special kind of Poké Ball here.
+\G\bWir verwenden hier nur eine spezielle Art von Pokéball.
+\G\PN received 30 Safari Balls from the attendant. \me[Item get]\wtnp[40]
+\G\PN erhielt vom Begleiter 30 Safari-Bälle. \me[Item get]\wtnp[40]
+\G\bWe'll call you on the PA when you run out of time or Safari Balls.
+\G\bWir rufen Sie über die Lautsprecheranlage an, wenn Ihnen die Zeit oder die Safari-Bälle ausgehen.
+\G\bWell, I'll wish you the best of luck!
+\G\bNun, ich wünsche dir viel Glück!
+\G\bOkay.\nPlease come again!
+\G\bOkay.\nBitte kommen Sie wieder!
+\bAre you going to leave the Safari Zone early?
+\bWerden Sie die Safari-Zone früher verlassen?
+\bPlease return any Safari Balls you may have left.
+\bBitte geben Sie alle Safari-Bälle zurück, die Sie möglicherweise noch übrig haben.
+\bGood luck!
+\bViel Glück!
+\bDid you catch your fair share? Come again!
+\bHaben Sie Ihren gerechten Anteil erwischt? Komm wieder!
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map069]
+\rI'm a swimming trainer, just like any other trainer!
+\rIch bin Schwimmtrainer, genau wie jeder andere Trainer auch!
+\rJust make sure swimming trainers don't try to swim over land to get to the player when they spot them.
+\rStellen Sie nur sicher, dass Schwimmtrainer nicht versuchen, über Land zu schwimmen, um zum Spieler zu gelangen, wenn sie ihn entdecken.
+\bI'm just swimming around in this 5x5 area.
+\bIch schwimme nur in diesem 5x5-Bereich herum.
+\bMy custom autonomous movement calls a method which makes me move randomly, but not further than 2 tiles horizontally or vertically from my initial position.
+\bMeine benutzerdefinierte autonome Bewegung ruft eine Methode auf, die mich zufällig bewegen lässt, jedoch nicht weiter als 2 Kacheln horizontal oder vertikal von meiner Ausgangsposition entfernt.
+\bOther scripts that could be called here are move_random_UD(range) for up/down only and move_random_LR(range) for left/right only.
+\bAndere Skripte, die hier aufgerufen werden könnten, sind move_random_UD(range) nur für oben/unten und move_random_LR(range) nur für links/rechts.
+#-------------------------------
+[Map071]
+\bAhoy, there!\nWhere do you want to sail?
+\bAhoi, da!\nWohin willst du segeln?
+\bThe Tiall Region it is. All aboard!
+\bDie Tiall-Region ist es. Alle einsteigen!
+\bBerth Island it is. All aboard!
+\bBerth Island ist es. Alle einsteigen!
+\bFaraday Island it is. All aboard!
+\bFaraday Island ist es. Alle einsteigen!
+\bLet me know if you want to set sail.
+\bLassen Sie mich wissen, wenn Sie in See stechen möchten.
+\bI've already given you an Aurora Ticket. Have you gone to Berth Island yet?
+\bIch habe dir bereits ein Aurora-Ticket gegeben. Warst du schon auf Berth Island?
+\bHere, have this Aurora Ticket.
+\bHier, holen Sie sich dieses Aurora-Ticket.
+\bYou can use that to sail to Berth Island.
+\bDamit kannst du nach Berth Island segeln.
+\bOh, you don't have any space in your Bag for it.
+\bOh, du hast keinen Platz dafür in deiner Tasche.
+\bI've already given you an Old Sea Map. Have you gone to Faraday Island yet?
+\bIch habe dir bereits eine Alte Seekarte gegeben. Warst du schon auf der Faraday-Insel?
+\bHere, have this Old Sea Map.
+\bHier, haben Sie diese alte Seekarte.
+\bYou can use that to sail to Faraday Island.
+\bDamit können Sie zur Faraday-Insel segeln.
+Tiall Region
+Tiall-Region
+Berth Island
+Liegeplatzinsel
+Faraday Island
+Faraday-Insel
+Exit
+Ausfahrt
+#-------------------------------
+[Map072]
+Deoxys is reacting to the meteor...
+Deoxys reagiert auf den Meteor...
+Would you like to bring the Deoxys in your party closer to the meteor?
+Möchten Sie die Deoxys Ihrer Gruppe näher an den Meteor heranbringen?
+\v[1] has changed to have superior stats for attacking!
+\v[1] wurde geändert, um bessere Angriffswerte zu haben!
+Left the meteor alone.
+Habe den Meteor in Ruhe gelassen.
+It's a vicious-looking rock.
+Es ist ein bösartig aussehender Stein.
+\v[1] has changed to have superior stats when defending!
+\v[1] wurde geändert, um beim Verteidigen bessere Werte zu haben!
+It's a sturdy-looking rock.
+Es ist ein robust aussehender Stein.
+\v[1] has changed to have increased speed!
+\v[1] wurde geändert, um die Geschwindigkeit zu erhöhen!
+It's a smooth-looking rock.
+Es ist ein glatt aussehender Stein.
+\v[1] has changed to have balanced stats!
+\v[1] wurde geändert, um ausgeglichene Statistiken zu haben!
+It's a regular-looking rock.
+Es ist ein normal aussehender Stein.
+Yes
+Ja
+No
+Nein
+#-------------------------------
+[Map074]
+\bSorry, you can't enter Cycle Road without a Bicycle.
+\bLeider können Sie den Radweg nicht ohne Fahrrad betreten.
+\bCycling Road is a great ride.
+\bRadfahren ist eine tolle Fahrt.
+#-------------------------------
+[Map075]
+\bThis is the Tiall Region.
+\bDies ist die Tiall-Region.
+\bDo you want to go back to the Essen Region?
+\bMöchten Sie zurück in die Essener Region?
+\bLet me know if you do.
+\bLass es mich wissen, wenn du es tust.
+Yes
+Ja
+No
+Nein

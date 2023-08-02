@@ -1,0 +1,536 @@
+# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ABILITY_NAMES]
+Stench
+Gestank
+Drizzle
+Nieselregen
+Speed Boost
+Geschwindigkeitsschub
+Battle Armor
+Kampfrüstung
+Sturdy
+Robust
+Damp
+Feuchte
+Limber
+Limber
+Sand Veil
+Sandschleier
+Static
+Statisch
+Volt Absorb
+Volt absorbieren
+Water Absorb
+Wasser absorbieren
+Oblivious
+Vergesslich
+Cloud Nine
+Wolke neun
+Compound Eyes
+Facettenaugen
+Insomnia
+Schlaflosigkeit
+Color Change
+Farbwechsel
+Immunity
+Immunität
+Flash Fire
+Blitzfeuer
+Shield Dust
+Schildstaub
+Own Tempo
+Eigenes Tempo
+Suction Cups
+Saugnäpfe
+Intimidate
+Einschüchtern
+Shadow Tag
+Schatten-Tag
+Rough Skin
+Raue Haut
+Wonder Guard
+Wunderwache
+Levitate
+Schweben
+Effect Spore
+Wirkungsspore
+Synchronize
+Synchronisieren
+Clear Body
+Klarer Körper
+Natural Cure
+Natürliche Heilung
+Lightning Rod
+Blitzableiter
+Serene Grace
+Ruhige Gnade
+Swift Swim
+Schnelles Schwimmen
+Chlorophyll
+Chlorophyll
+Illuminate
+Erleuchten
+Trace
+Verfolgen
+Huge Power
+Riesige Macht
+Poison Point
+Giftpunkt
+Inner Focus
+Innere Konzentration
+Magma Armor
+Magma-Rüstung
+Water Veil
+Wasserschleier
+Magnet Pull
+Magnetzug
+Soundproof
+Schallisoliert
+Rain Dish
+Regenschale
+Sand Stream
+Sandstrom
+Pressure
+Druck
+Thick Fat
+Dickes Fett
+Early Bird
+Früher Vogel
+Flame Body
+Flammenkörper
+Run Away
+Renn weg
+Keen Eye
+Scharfes Auge
+Hyper Cutter
+Hyperschneider
+Pickup
+Abholen
+Truant
+Schulschwänzer
+Hustle
+Eile
+Cute Charm
+Niedlicher Charme
+Plus
+Plus
+Minus
+Minus
+Forecast
+Vorhersage
+Sticky Hold
+Klebriger Halt
+Shed Skin
+Häuten
+Guts
+Innereien
+Marvel Scale
+Marvel-Skala
+Liquid Ooze
+Flüssiger Schlamm
+Overgrow
+Überwuchern
+Blaze
+Blaze
+Torrent
+Torrent
+Swarm
+Schwarm
+Rock Head
+Felskopf
+Drought
+Trockenheit
+Arena Trap
+Arenafalle
+Vital Spirit
+Lebensgeist
+White Smoke
+Weißer Rauch
+Pure Power
+Pure Kraft
+Shell Armor
+Panzerrüstung
+Air Lock
+Luftschleuse
+Tangled Feet
+Verwirrte Füße
+Motor Drive
+Motorantrieb
+Rivalry
+Rivalität
+Steadfast
+Standhaft
+Snow Cloak
+Schneemantel
+Gluttony
+Völlerei
+Anger Point
+Wutpunkt
+Unburden
+Entlasten
+Heatproof
+Hitzebeständig
+Simple
+Einfach
+Dry Skin
+Trockene Haut
+Download
+Herunterladen
+Iron Fist
+Eisenfaust
+Poison Heal
+Giftheilung
+Adaptability
+Anpassungsfähigkeit
+Skill Link
+Skill-Link
+Hydration
+Flüssigkeitszufuhr
+Solar Power
+Solarenergie
+Quick Feet
+Schnelle Füße
+Normalize
+Normalisieren
+Sniper
+Scharfschütze
+Magic Guard
+Magischer Wächter
+No Guard
+Keine Wache
+Stall
+Stall
+Technician
+Techniker
+Leaf Guard
+Blattschutz
+Klutz
+Klutz
+Mold Breaker
+Schimmelbrecher
+Super Luck
+Super Glück
+Aftermath
+Nachwirkungen
+Anticipation
+Vorwegnahme
+Forewarn
+Vorwarnen
+Unaware
+Nicht bewusst
+Tinted Lens
+Getönte Linse
+Filter
+Filter
+Slow Start
+Langsamer Start
+Scrappy
+Scrappy
+Storm Drain
+Sturmabfluss
+Ice Body
+Eiskörper
+Solid Rock
+Solider Fels
+Snow Warning
+Schneewarnung
+Honey Gather
+Honig sammeln
+Frisk
+Filzen
+Reckless
+Rücksichtslos
+Multitype
+Multityp
+Flower Gift
+Blumengeschenk
+Bad Dreams
+Schlechte Träume
+Pickpocket
+Taschendieb
+Sheer Force
+Bloße Kraft
+Contrary
+Gegenteil
+Unnerve
+Entnerven
+Defiant
+Trotzig
+Defeatist
+Defätistisch
+Cursed Body
+Verfluchter Körper
+Healer
+Heiler
+Friend Guard
+Freundwache
+Weak Armor
+Schwache Rüstung
+Heavy Metal
+Schwermetall
+Light Metal
+Leichtmetall
+Multiscale
+Mehrskalig
+Toxic Boost
+Giftiger Boost
+Flare Boost
+Flare-Boost
+Harvest
+Ernte
+Telepathy
+Telepathie
+Moody
+Launisch
+Overcoat
+Mantel
+Poison Touch
+Giftberührung
+Regenerator
+Regenerator
+Big Pecks
+Große Küsschen
+Sand Rush
+Sandrausch
+Wonder Skin
+Wunderhaut
+Analytic
+Analytisch
+Illusion
+Illusion
+Imposter
+Hochstapler
+Infiltrator
+Eindringling
+Mummy
+Mumie
+Moxie
+Moxie
+Justified
+Gerechtfertigt
+Rattled
+Gerüttelt
+Magic Bounce
+Magischer Sprung
+Sap Sipper
+Saft-Sipper
+Prankster
+Witzbold
+Sand Force
+Sandkraft
+Iron Barbs
+Eisenwiderhaken
+Zen Mode
+Zen-Modus
+Victory Star
+Siegesstern
+Turboblaze
+Turboblaze
+Teravolt
+Teravolt
+Aroma Veil
+Aromaschleier
+Flower Veil
+Blumenschleier
+Cheek Pouch
+Wangentasche
+Protean
+Protean
+Fur Coat
+Pelzmantel
+Magician
+Zauberer
+Bulletproof
+Kugelsicher
+Competitive
+Wettbewerbsfähig
+Strong Jaw
+Starker Kiefer
+Refrigerate
+Kalt stellen
+Sweet Veil
+Süßer Schleier
+Stance Change
+Haltungswechsel
+Gale Wings
+Sturmflügel
+Mega Launcher
+Mega-Launcher
+Grass Pelt
+Grasfell
+Symbiosis
+Symbiose
+Tough Claws
+Harte Krallen
+Pixilate
+Pixilieren
+Gooey
+Klebrig
+Aerilate
+Belüften
+Parental Bond
+Elternbindung
+Dark Aura
+Dunkle Aura
+Fairy Aura
+Feen-Aura
+Aura Break
+Aura-Pause
+Primordial Sea
+Urmeer
+Desolate Land
+Verwüstetes Land
+Delta Stream
+Deltastrom
+Stamina
+Durchhaltevermögen
+Wimp Out
+Kneifen
+Emergency Exit
+Notausgang
+Water Compaction
+Wasserverdichtung
+Merciless
+Gnadenlos
+Shields Down
+Schilde fallen
+Stakeout
+Absteckung
+Water Bubble
+Wasserblase
+Steelworker
+Stahlarbeiter
+Berserk
+Berserker
+Slush Rush
+Matschrausch
+Long Reach
+Große Reichweite
+Liquid Voice
+Flüssige Stimme
+Triage
+Triage
+Galvanize
+Galvanisieren
+Surge Surfer
+Surge Surfer
+Schooling
+Schulung
+Disguise
+Verkleidung
+Battle Bond
+Battle Bond
+Power Construct
+Kraftkonstrukt
+Corrosion
+Korrosion
+Comatose
+Komatös
+Queenly Majesty
+Königliche Majestät
+Innards Out
+Innereien raus
+Dancer
+Tänzer
+Battery
+Batterie
+Fluffy
+Flauschige
+Dazzling
+Blendend
+Soul-Heart
+Seelenherz
+Tangling Hair
+Verwirrtes Haar
+Receiver
+Empfänger
+Power of Alchemy
+Kraft der Alchemie
+Beast Boost
+Biest-Boost
+RKS System
+RKS-System
+Electric Surge
+Stromstoß
+Psychic Surge
+Psychische Welle
+Misty Surge
+Nebelwelle
+Grassy Surge
+Grasige Welle
+Full Metal Body
+Vollmetallgehäuse
+Shadow Shield
+Schattenschild
+Prism Armor
+Prismenrüstung
+Neuroforce
+Neuroforce
+Intrepid Sword
+Unerschrockenes Schwert
+Dauntless Shield
+Unerschrockener Schild
+Libero
+Libero
+Ball Fetch
+Ball holen
+Cotton Down
+Baumwolldaunen
+Propeller Tail
+Propellerheck
+Mirror Armor
+Spiegelrüstung
+Gulp Missile
+Schluckrakete
+Stalwart
+Standhaft
+Steam Engine
+Dampfmaschine
+Punk Rock
+Punk Rock
+Sand Spit
+Sandspucke
+Ice Scales
+Eisschuppen
+Ripen
+Reifen
+Ice Face
+Eisgesicht
+Power Spot
+Kraftplatz
+Mimicry
+Mimikry
+Screen Cleaner
+Bildschirmreiniger
+Steely Spirit
+Stählerner Geist
+Perish Body
+Körper zugrunde gehen
+Wandering Spirit
+Wandernder Geist
+Gorilla Tactics
+Gorilla-Taktik
+Neutralizing Gas
+Neutralisierendes Gas
+Pastel Veil
+Pastellschleier
+Hunger Switch
+Hungerschalter
+Quick Draw
+Schnelle Zeichnung
+Unseen Fist
+Unsichtbare Faust
+Curious Medicine
+Kuriose Medizin
+Transistor
+Transistor
+Dragon's Maw
+Drachenschlund
+Chilling Neigh
+Chilliges Nachbarn
+Grim Neigh
+Grimmiges Wiehern
+As One
+Als ein

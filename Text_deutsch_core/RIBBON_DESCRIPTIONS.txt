@@ -1,0 +1,160 @@
+# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[RIBBON_DESCRIPTIONS]
+Hoenn Cool Contest Normal Rank winner!
+Gewinner des normalen Rangs des Hoenn-Cool-Wettbewerbs!
+Hoenn Cool Contest Super Rank winner!
+Hoenn Cool Contest Super Rank Gewinner!
+Hoenn Cool Contest Hyper Rank winner!
+Gewinner des Hoenn Cool Contest Hyper Rank!
+Hoenn Cool Contest Master Rank winner!
+Gewinner des Hoenn Cool Contest Master Rank!
+Hoenn Beauty Contest Normal Rank winner!
+Gewinner des normalen Rangs des Hoenn-Schönheitswettbewerbs!
+Hoenn Beauty Contest Super Rank winner!
+Gewinner des Super Rank beim Hoenn Beauty Contest!
+Hoenn Beauty Contest Hyper Rank winner!
+Gewinner des Hoenn Beauty Contest Hyper Rank!
+Hoenn Beauty Contest Master Rank winner!
+Gewinner des Hoenn Beauty Contest Master Rank!
+Hoenn Cute Contest Normal Rank winner!
+Gewinner des Hoenn Cute-Wettbewerbs mit normalem Rang!
+Hoenn Cute Contest Super Rank winner!
+Hoenn Cute Contest Super Rank Gewinner!
+Hoenn Cute Contest Hyper Rank winner!
+Gewinner des Hoenn Cute Contest Hyper Rank!
+Hoenn Cute Contest Master Rank winner!
+Gewinner des Hoenn Cute Contest Master Rank!
+Hoenn Smart Contest Normal Rank winner!
+Gewinner des normalen Rangs des Hoenn-Smart-Wettbewerbs!
+Hoenn Smart Contest Super Rank winner!
+Hoenn Smart Contest Super Rank Gewinner!
+Hoenn Smart Contest Hyper Rank winner!
+Gewinner des Hoenn Smart Contest Hyper Rank!
+Hoenn Smart Contest Master Rank winner!
+Gewinner des Hoenn Smart Contest Master Rank!
+Hoenn Tough Contest Normal Rank winner!
+Gewinner des normalen Rangs des Hoenn Tough Contest!
+Hoenn Tough Contest Super Rank winner!
+Hoenn Tough Contest Super Rank Gewinner!
+Hoenn Tough Contest Hyper Rank winner!
+Gewinner des Hoenn Tough Contest Hyper Rank!
+Hoenn Tough Contest Master Rank winner!
+Gewinner des Hoenn Tough Contest Master Rank!
+Super Contest Cool Category Normal Rank winner!
+Super-Wettbewerb, Gewinner der coolen Kategorie „Normaler Rang“!
+Super Contest Cool Category Great Rank winner!
+Super-Wettbewerb, coole Kategorie, toller Rang-Gewinner!
+Super Contest Cool Category Ultra Rank winner!
+Super Contest Cool Kategorie Ultra Rank Gewinner!
+Super Contest Cool Category Master Rank winner!
+Super Contest Cool Category Master Rank Gewinner!
+Super Contest Beauty Category Normal Rank winner!
+Gewinner des Super Contest Beauty in der Kategorie „Normaler Rang“!
+Super Contest Beauty Category Great Rank winner!
+Super Contest Beauty-Kategorie Toller Gewinner!
+Super Contest Beauty Category Ultra Rank winner!
+Super Contest Beauty Kategorie Ultra Rank Gewinner!
+Super Contest Beauty Category Master Rank winner!
+Gewinner des Super Contest Beauty Category Master Rank!
+Super Contest Cute Category Normal Rank winner!
+Gewinner des Super-Wettbewerbs „Niedlich“ in der Kategorie „Normaler Rang“!
+Super Contest Cute Category Great Rank winner!
+Super-Wettbewerb, niedlich, Gewinner der Kategorie „Großartiger Rang“!
+Super Contest Cute Category Ultra Rank winner!
+Gewinner des Super Contest Cute in der Kategorie Ultra Rank!
+Super Contest Cute Category Master Rank winner!
+Gewinner des Super Contest Cute-Kategorie-Meisterrangs!
+Super Contest Smart Category Normal Rank winner!
+Gewinner des Super Contest Smart in der Kategorie „Normaler Rang“!
+Super Contest Smart Category Great Rank winner!
+Super Contest Smart-Kategorie Toller Gewinner!
+Super Contest Smart Category Ultra Rank winner!
+Super Contest Smart Kategorie Ultra Rank Gewinner!
+Super Contest Smart Category Master Rank winner!
+Gewinner des Super Contest Smart Category Master Rank!
+Super Contest Tough Category Normal Rank winner!
+Gewinner des Super Contest Tough in der Kategorie „Normaler Rang“!
+Super Contest Tough Category Great Rank winner!
+Super Contest Tough-Kategorie, toller Rang-Gewinner!
+Super Contest Tough Category Ultra Rank winner!
+Super Contest Tough-Kategorie Ultra Rank-Gewinner!
+Super Contest Tough Category Master Rank winner!
+Gewinner des Super Contest Tough-Kategorie-Meisterrangs!
+Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 50 challenge.
+Verliehenes Band für das Abschließen von Hoenn's Battle Towers Lv. 50 Herausforderung.
+Ribbon awarded for clearing Hoenn's Battle Tower's Lv. 100 challenge.
+Verliehenes Band für das Abschließen von Hoenn's Battle Towers Lv. 100 Herausforderung.
+A Ribbon awarded for defeating the Tower Tycoon at the Battle Tower.
+Ein Band, das für den Sieg über den Tower Tycoon im Battle Tower verliehen wird.
+A Ribbon awarded for completing the Battle Tower Double challenge.
+Ein Band für den Abschluss der Battle Tower Double-Herausforderung.
+A Ribbon awarded for completing the Battle Tower Multi challenge.
+Ein Band für den Abschluss der Battle Tower Multi-Herausforderung.
+A Ribbon awarded for completing the Battle Tower Link Multi challenge.
+Ein Band für den Abschluss der Battle Tower Link Multi-Herausforderung.
+A Ribbon awarded for completing the Wi-Fi Battle Tower challenge.
+Ein Band für den Abschluss der Wi-Fi Battle Tower-Herausforderung.
+Ribbon for clearing the Pokémon League and entering the Hall of Fame in another region.
+Band für den Abschluss der Pokémon-Liga und den Eintritt in die Ruhmeshalle einer anderen Region.
+Ribbon awarded for beating the Sinnoh Champion and entering the Hall of Fame.
+Band verliehen für den Sieg über den Sinnoh-Champion und den Eintritt in die Hall of Fame.
+A Ribbon awarded for setting an incredible record.
+Eine Auszeichnung für einen unglaublichen Rekord.
+Pokémon Event Participation Ribbon.
+Band zur Teilnahme am Pokémon-Event.
+A Ribbon awarded for setting a legendary record.
+Ein Band, das für das Aufstellen eines legendären Rekords verliehen wird.
+An extraordinarily gorgeous and extravagant Ribbon.
+Ein außergewöhnlich wunderschönes und extravagantes Band.
+An incredibly regal Ribbon with an air of nobility.
+Ein unglaublich königliches Band mit einem Hauch von Noblesse.
+A gorgeous and regal Ribbon that is the peak of fabulous.
+Ein wunderschönes und königliches Band, das den Gipfel des Fabelhaften darstellt.
+A Ribbon for recalling an invigorating event that created life energy.
+Ein Band zur Erinnerung an ein belebendes Ereignis, das Lebensenergie erzeugte.
+A Ribbon for recalling a thrilling event that made life more exciting.
+Ein Band zur Erinnerung an ein aufregendes Ereignis, das das Leben aufregender gemacht hat.
+A Ribbon for recalling feelings of sadness that added spice to life.
+Ein Band zum Erinnern an traurige Gefühle, die dem Leben Würze verleihen.
+A Ribbon for recalling a careless error that helped steer life decisions.
+Ein Band zur Erinnerung an einen Flüchtigkeitsfehler, der bei der Steuerung von Lebensentscheidungen geholfen hat.
+A Ribbon for recalling a refreshing event that added sparkle to life.
+Ein Band zur Erinnerung an ein erfrischendes Ereignis, das dem Leben Glanz verleiht.
+A Ribbon for recalling a deep slumber that made life soothing.
+Ein Band zur Erinnerung an einen tiefen Schlaf, der das Leben beruhigend machte.
+A Ribbon for recalling that smiles enrich the quality of life.
+Ein Band, das daran erinnert, dass ein Lächeln die Lebensqualität bereichert.
+A Ribbon awarded to a Pokémon deemed to have a top-quality footprint.
+Ein Band, das an ein Pokémon verliehen wird, das einen Fußabdruck von höchster Qualität hat.
+Ribbon awarded for being chosen as a super sketch model in Hoenn.
+Auszeichnung für die Auszeichnung als Super-Sketch-Modell in Hoenn.
+Ribbon awarded for being an exceptionally hard worker.
+Auszeichnung für außergewöhnlich harte Arbeit.
+A Ribbon to celebrate a birthday.
+Ein Band zur Feier eines Geburtstages.
+A special Ribbon for a special day.
+Ein besonderes Band für einen besonderen Tag.
+A Ribbon that proclaims love for Pokémon.
+Ein Band, das die Liebe zu Pokémon verkündet.
+Special Holiday Ribbon.
+Besonderes Feiertagsband.
+A Ribbon to cherish a special memory.
+Ein Band, um eine besondere Erinnerung zu bewahren.
+A Ribbon said to make your wish come true.
+Ein Band soll Ihren Wunsch wahr werden lassen.
+A Ribbon awarded for overcoming all difficult challenges.
+Ein Band für die Bewältigung aller schwierigen Herausforderungen.
+Pokémon League Champion Ribbon.
+Pokémon-Liga-Champion-Band.
+Battle Competition Champion Ribbon.
+Kampfwettbewerb-Champion-Band.
+Pokémon World Championships Regional Champion Ribbon.
+Band „Regionalmeister“ der Pokémon-Weltmeisterschaften.
+A Ribbon awarded for winning 100 matches in a row.
+Ein Band, das für den Sieg in 100 Spielen in Folge verliehen wird.
+Pokémon World Championships National Champion Ribbon.
+Band des Nationalmeisters der Pokémon-Weltmeisterschaften.
+Pokémon World Championships World Champion Ribbon.
+Pokémon-Weltmeisterschaften: Weltmeisterband.

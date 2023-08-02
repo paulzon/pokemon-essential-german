@@ -1,0 +1,144 @@
+# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[RIBBON_NAMES]
+Cool Ribbon
+Cooles Band
+Cool Ribbon Super
+Cooles Band Super
+Cool Ribbon Hyper
+Cooles Ribbon Hyper
+Cool Ribbon Master
+Cooler Ribbon Master
+Beauty Ribbon
+Schönheitsband
+Beauty Ribbon Super
+Schönheitsband Super
+Beauty Ribbon Hyper
+Schönheitsband Hyper
+Beauty Ribbon Master
+Meister der Schönheitsbänder
+Cute Ribbon
+Süßes Band
+Cute Ribbon Super
+Süßes Band Super
+Cute Ribbon Hyper
+Süßes Band-Hyper
+Cute Ribbon Master
+Süßer Bandmeister
+Smart Ribbon
+Intelligentes Band
+Smart Ribbon Super
+Smart Ribbon Super
+Smart Ribbon Hyper
+Smart Ribbon Hyper
+Smart Ribbon Master
+Smart Ribbon Master
+Tough Ribbon
+Robustes Band
+Tough Ribbon Super
+Robustes Band Super
+Tough Ribbon Hyper
+Robustes Ribbon Hyper
+Tough Ribbon Master
+Harter Bandmeister
+Cool Ribbon Great
+Cooles Band Großartig
+Cool Ribbon Ultra
+Cooles Band Ultra
+Beauty Ribbon Great
+Schönheitsband Großartig
+Beauty Ribbon Ultra
+Schönheitsband Ultra
+Cute Ribbon Great
+Süßes Band. Großartig
+Cute Ribbon Ultra
+Süßes Band Ultra
+Smart Ribbon Great
+Smart Ribbon Großartig
+Smart Ribbon Ultra
+Smart Ribbon Ultra
+Tough Ribbon Great
+Robustes Band. Großartig
+Tough Ribbon Ultra
+Robustes Band Ultra
+Winning Ribbon
+Siegerband
+Victory Ribbon
+Siegesband
+Ability Ribbon
+Fähigkeitsband
+Great Ability Ribbon
+Großes Fähigkeitsband
+Double Ability Ribbon
+Doppeltes Fähigkeitsband
+Multi Ability Ribbon
+Multifunktionsleiste
+Pair Ability Ribbon
+Paarfähigkeitsband
+World Ability Ribbon
+Weltfähigkeitsband
+Champion Ribbon
+Champion-Band
+Sinnoh Champ Ribbon
+Sinnoh-Champ-Band
+Record Ribbon
+Aufnahmeband
+Event Ribbon
+Veranstaltungsband
+Legend Ribbon
+Legendenband
+Gorgeous Ribbon
+Wunderschönes Band
+Royal Ribbon
+Königliches Band
+Gorgeous Royal Ribbon
+Wunderschönes königliches Band
+Alert Ribbon
+Warnband
+Shock Ribbon
+Schockband
+Downcast Ribbon
+Niedergeschlagenes Band
+Careless Ribbon
+Unvorsichtiges Band
+Relax Ribbon
+Entspannungsband
+Snooze Ribbon
+Schlummerband
+Smile Ribbon
+Lächeln-Band
+Footprint Ribbon
+Fußabdruck-Band
+Artist Ribbon
+Künstlerband
+Effort Ribbon
+Anstrengungsband
+Birthday Ribbon
+Geburtstagsband
+Special Ribbon
+Besonderes Band
+Classic Ribbon
+Klassisches Band
+Premier Ribbon
+Premier-Band
+Souvenir Ribbon
+Souvenirband
+Wishing Ribbon
+Wunschband
+National Ribbon
+Nationales Band
+Country Ribbon
+Länderband
+Battle Champion Ribbon
+Battle-Champion-Band
+Regional Champion Ribbon
+Regionales Meisterband
+Earth Ribbon
+Erdband
+World Ribbon
+Weltband
+National Champion Ribbon
+Nationales Meisterband
+World Champion Ribbon
+Weltmeisterband

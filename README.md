@@ -1,0 +1,1 @@
+# pokemon-essential-german
